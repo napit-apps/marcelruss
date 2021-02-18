@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: Philosophie
+description: Agilität ist ein Mindeset, kein Zertifikat
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
