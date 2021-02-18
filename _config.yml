@@ -2,6 +2,7 @@
 title: Marcel Russ
 subtitle: (not another programmer)
 email: sag.hallo@marcelruss.de
+formio: https://formspree.io/f/xpzoeyqe
 description: Hier entsteht meine neue Homepage.<br /> Stay tuned.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
