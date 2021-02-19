@@ -1,7 +1,7 @@
 ---
-title: Portfolio
+title: Mobile Apps
 layout: landing
-description: 'Übersicht meiner bisherigen Projekte und Apps.'
+description: 'Hier findest du eine kleine Auswahl meiner bisherigen App Projekte.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -13,9 +13,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Warum Apps</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>Apps sind aus unserem Alltag nicht mehr wegzudenken. Sie helfen uns morgen aufzustehen, den Bus zu bezahlen, Musik zu hören, … Im Gegensatz zu alten schwerfälligen PC-Programme bieten sie dem Nutzer einen dem Anwendungsfall zugeschnittenen leichtgewichtigen Mehrwert, der immer und überall verfügbar ist.</p>
 	</div>
 </section>
 
@@ -28,7 +28,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>myWork - Zeiterfassung</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
