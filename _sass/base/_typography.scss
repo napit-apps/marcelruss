@@ -46,6 +46,12 @@
 		}
 	}
 
+	.badge-link {
+		border-bottom: dotted 0px;
+		position: relative;
+		top: 5px;
+	}
+
 	strong, b {
 		color: _palette(fg-bold);
 		font-weight: _font(weight-bold);
