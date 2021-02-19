@@ -6,4 +6,4 @@ image: assets/images/pic07.jpg
 nav-menu: true
 ---
 
-Hier kommt der Inhalt
+Von App Entwicklung über Agile Coaching, hier ensteht die Seite meiner Talente...
