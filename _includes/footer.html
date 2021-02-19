@@ -16,8 +16,12 @@
 					<textarea name="message" id="message" rows="6"></textarea>
 				</div>
 				<ul class="actions">
+					<div class="6u 12u$(small)">
+						<input type="checkbox" id="demo-copy" name="demo-copy">
+						<label for="demo-copy">Schicke mir eine Kopie</label>
+					</div>
 					<li><input type="submit" value="Nachricht senden" class="special" /></li>
-					<li><input type="reset" value="Clear" /></li>
+					<li><input type="reset" value="Löschen" /></li>
 				</ul>
 			</form>
 		</section>
@@ -25,21 +29,21 @@
 			<section>
 				<div class="contact-method">
 					<span class="icon alt fa-envelope"></span>
-					<h3>Email</h3>
+					<h3>E-Mail</h3>
 					<a href="mailto:">{{ site.email }}</a>
 				</div>
 			</section>
 			<section>
 				<div class="contact-method">
 					<span class="icon alt fa-phone"></span>
-					<h3>Phone</h3>
+					<h3>Mobil</h3>
 					<span>{{ site.phone }}</span>
 				</div>
 			</section>
 			<section>
 				<div class="contact-method">
 					<span class="icon alt fa-home"></span>
-					<h3>Address</h3>
+					<h3>Addresse</h3>
 					<span>
 					{% if site.street_address %}
 					    {{ site.street_address }}<br />
