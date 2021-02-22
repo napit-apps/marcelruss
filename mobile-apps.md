@@ -1,7 +1,7 @@
 ---
-title: Mobile Apps
+title: App Entwicklung
 layout: landing
-description: 'Warum hart arbeiten, wenn man intelligent arbeiten kann?'
+description: 'Mobil seit iOS 2'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
