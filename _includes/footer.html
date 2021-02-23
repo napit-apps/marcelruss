@@ -34,7 +34,7 @@
 				<div class="contact-method">
 					<span class="icon alt fa-phone"></span>
 					<h3>Mobil</h3>
-					<a href="tel:">{{ site.phone }}</a>
+					<a href="tel:+4915734399963">{{ site.phone }}</a>
 				</div>
 			</section>
 			<section>
@@ -42,22 +42,22 @@
 					<span class="icon alt fa-home"></span>
 					<h3>Addresse</h3>
 					<span>
-					{% if site.street_address %}
+					
+					<a href="http://maps.google.com/?q=14+Lindachstraße+73230+Kirchheim unter Teck" target="_blank">{% if site.street_address %}
 					    {{ site.street_address }}<br />
+					{% endif %}
+					{% if site.zip_code %}
+					    {{ site.zip_code }}
 					{% endif %}
 					{% if site.city %}
 					    {{ site.city }},
-					{% endif %}
+					{% endif %} <br />
 					{% if site.state %}
 					    {{ site.state }} 
-					{% endif %}
-					{% if site.zip_code %}
-					    {{ site.zip_code }}<br />
-					{% endif %}
+					{% endif %} 
 					{% if site.country %}
 					    {{ site.country }}
-					{% endif %}
-					</span>
+					{% endif %}</a>
 				</div>
 			</section>
 		</section>
