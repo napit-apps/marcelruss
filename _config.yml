@@ -8,7 +8,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Marcel Russ
 
-# These are only the labels, the links are set in footer.html!
+# These are only the labels, the links are set in footer.html
 street_address: Lindachstraße 14 
 city: Kirchheim unter Teck
 state:
