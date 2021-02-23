@@ -9,7 +9,8 @@ show_tile: false
 
 
 <h2>{{ page.description }}</h2>
-Spezialisiert auf die Entwicklung von mobilen Apps, biete ich dir vom Design der Benutzeroberfläche, bis zur Modelierung der Datenbank(en) und der serverseitigen Logik, alles was du für deine Produkt-Vision benötigst.
+<p>Spezialisiert auf die Entwicklung von mobilen Apps, biete ich dir vom Design der Benutzeroberfläche, bis zur Modelierung der Datenbank(en) und der serverseitigen Logik, alles was du für deine Produkt-Vision benötigst. </p>
+Seit einigen Jahren bin ich zudem als agiler Berater tätig, der …
 
 <div class="row">
 	<div class="4u 12u$(medium)">
