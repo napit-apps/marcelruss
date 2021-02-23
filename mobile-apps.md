@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Warum Apps?</h2>
 		</header>
-		<p>Apps bietem im Gegensatz zu den bekannten und schwerfälligen PC-Programme, dem Nutzer einen dem Anwendungsfall zugeschnittenen leichtgewichtigen Mehrwert, der immer und überall verfügbar ist.</p>
+		<p>Apps bieten im Gegensatz zu den bekannten und schwerfälligen PC-Programme, dem Nutzer einen dem Anwendungsfall zugeschnittenen leichtgewichtigen Mehrwert, der immer und überall verfügbar ist.</p>
 	</div>
 </section>
 
@@ -49,8 +49,9 @@ nav-menu: true
 				</header>
 				<p>Ein Haushaltsbuch, reduziert auf das Nötigste und doch mit allem was du brauchst! myMoney bietet dir schnelles Erfassen gepaart mit starken Auswertungen.</p>
 				<ul class="actions">
-					<li><a class="badge-link" href="https://apps.apple.com/de/app/mymoney-housekeeping-book/id1341614338?l=de" target="_blank"><img src="assets/images/app-store-badge.svg" alt=""></a></li>
 					<li><a href="https://napit-apps.github.io/index-de.html" class="button">Mehr Infos</a></li>
+					<li><a class="badge-link" href="https://apps.apple.com/de/app/mymoney-housekeeping-book/id1341614338?l=de" target="_blank"><img src="assets/images/app-store-badge.svg" alt=""></a></li>
+					
 				</ul>
 			</div>
 		</div>
@@ -80,7 +81,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Kontakt</h2>
 		</header>
-		<p>Du möchtest eine App für deine Unternehmen entwickeln? <br />Ich freue mich auf unser Kennenlernen.</p>
+		<p>Du möchtest eine App für dich oder dein Unternehmen entwickeln? <br />Ich freue mich auf unser Kennenlernen.</p>
 	</div>
 </section>
 
