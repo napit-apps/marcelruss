@@ -22,7 +22,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="https://itunes.apple.com/de/app/mywork/id487617582?l=de" class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -39,7 +39,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="https://apps.apple.com/de/app/mymoney-housekeeping-book/id1341614338?l=de" class="image">
 			<img src="{% link assets/images/pic05.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -51,27 +51,26 @@ nav-menu: true
 				<ul class="actions">
 					<li><a href="https://napit-apps.github.io/index-de.html" class="button">Mehr Infos</a></li>
 					<li><a class="badge-link" href="https://apps.apple.com/de/app/mymoney-housekeeping-book/id1341614338?l=de" target="_blank"><img src="assets/images/app-store-badge.svg" alt=""></a></li>
-					
 				</ul>
 			</div>
 		</div>
 	</section>
-	<!--<section>
+	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Deine App Idee</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Vom Design der Benutzeroberfläche, über die Programmierung, bis zur Modelierung der Datenbank(en) und der serverseitigen Logik, biete ich dir alles was du für deine App-Idee benötigst. </p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="#contact" class="button scrolly ">Kontakt</a></li>
 				</ul>
 			</div>
 		</div>
-	</section> -->
+	</section>
 </section>
 
 
