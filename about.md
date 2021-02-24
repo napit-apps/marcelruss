@@ -9,7 +9,7 @@ show_tile: false
 
 
 <h2>{{ page.description }}</h2>
-<p>Spezialisiert auf die Entwicklung von mobilen Apps, arbeite ich seit Sommer 2018 in der Rolle <i>Team Leader Web & Mobile Application</i> bei <a href="https://hugoboss.com" target="_blank">HUGO BOSS</a>. Neben der fachlichen und organisatorischen Führung des Entwickler-Teams, verantworte ich dort das Thema <i>UI/UX</i> unserer Applikationen und bin als Berater für agile Vorgehensmodelle (z.B. Scrum) tätig.</p>
+<p>Spezialisiert auf die Entwicklung von mobilen Apps, arbeite ich seit Sommer 2018 in der Rolle <i>Team Leader Web & Mobile Application</i> bei <a href="https://hugoboss.com" target="_blank">HUGO BOSS</a>. Neben der fachlichen und organisatorischen Führung des Entwickler-Teams, verantworte ich dort das Thema <i>UI/UX</i> und bin als Berater für agile Vorgehensmodelle (z.B. Scrum) tätig.</p>
 
 <div class="row">
 	<div class="4u 12u$(medium)">
