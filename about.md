@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Über Mich
-description: Hi, ich bin Marcel, <br />Softwareentwickler und Berater aus dem Raum Stuttgart.
-image: assets/images/about.jpg
+description: Hi, ich bin Marcel, <br />Software-Ingenieur aus'm Ländle.
+image: assets/images/about.jp2
 nav-menu: true
 show_tile: false
 ---

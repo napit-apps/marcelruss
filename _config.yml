@@ -35,5 +35,12 @@ twitter_url:
 # build settings
 markdown: kramdown
 
+# for google site verification
+google_verify: 9C0Qp-Waq5Ob0Yy7Z7gZBcPrl8zK7YXyZ1m8-iXSK0w
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
 sass:
   style: compressed
