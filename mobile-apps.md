@@ -23,7 +23,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="https://itunes.apple.com/de/app/mywork/id487617582?l=de" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/myWork.jp2 %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -40,7 +40,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="https://apps.apple.com/de/app/mymoney-housekeeping-book/id1341614338?l=de" class="image">
-			<img src="{% link assets/images/pic05.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/myMoney.jp2 %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -57,7 +57,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/app-idea.jp2 %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
