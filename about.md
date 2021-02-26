@@ -23,13 +23,14 @@ show_tile: false
         <!--<p><a href="mobile-apps.html" class="button small">Mehr</a></p> -->
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3>Scrum und Agilität</h3>
-		<p>Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat.</p>
+		<h3>Agilität & Scrum</h3>
+		<p><b>Ausprobieren</b>, <b>lernen</b>, <b>weiterentwickeln</b>. Das sind die Kernaufgaben, um in kleinen Schritten kontinuierlich und kundenzentriert vorwärtszukommen, mit dem Ziel einen dauerhaften Mehrwert zu generieren.</p>
         <p><a href="philosophy.html" class="button small">Mehr</a></p>
 	</div>
 </div>
 
 <h2>Ein paar harte <i>dev</i>-Fakten</h2>
+
 <p>Folgende Listen zeigen einen Auszug meiner bisherigen Kerntechnologien und eingesetzten Werkzeugen. Sie wird stetig aktualisiert.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
