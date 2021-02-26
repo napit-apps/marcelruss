@@ -9,12 +9,17 @@ show_tile: false
 
 
 <h2>{{ page.description }}</h2>
-<p>Spezialisiert auf die Entwicklung von mobilen Apps, arbeite ich seit Sommer 2018 in der Rolle <i>Team Leader Web & Mobile Application</i> bei <a href="https://hugoboss.com" target="_blank">HUGO BOSS</a>. Neben der fachlichen und disziplinarischen Führung des Entwickler-Teams, verantworte ich dort das Thema <i>UI/UX</i> und bin als Berater für agile Vorgehensmodelle (z.B. Scrum) tätig.</p>
+<p>Spezialisiert auf die Entwicklung von mobilen Apps, arbeite ich seit Sommer 2018 in der Rolle <i>Team Leader Web & Mobile Application</i> bei <a href="https://hugoboss.com" target="_blank">HUGO BOSS</a>. Neben der fachlichen und disziplinarischen Führung des Entwickler-Teams, verantworte ich dort die Themen Rund um UI/UX und bin als Berater für agile Vorgehensmodelle (z.B. Scrum) tätig.</p>
 
+<p>Vor meinem Wechsel in die Fashion-Welt, war ich knapp sechs Jahre als IT Consultant in verschiednen Rollen für die automotive Branche im Raum Stuttgart tätig. Zu meinen Aufgaben gehörten die Beratung und Entwicklung, die (technische) Leitung der klassischen Projekte, sowie die Rollen Scrum Master und Product Owener in den agilen Produkten.</p>
+
+<p>Meine Abschluss zum Diplom Informatiker, im Studiengang Software-Engineering, habe ich 2012 an der Universität Stuttgart gemacht.</p>
+
+<h2>Kernkompetenzen</h2>
 <div class="row">
 	<div class="4u 12u$(medium)">
 		<h3>App Entwicklung</h3>
-		<p>Ob nativ, hybrid oder webbasiert. Apps sind aus unserem Alltag nicht mehr wegzudenken. Ich arbeite seit über 10 Jahren in diesem Feld. Mit über 230.000 Downloads der eigenen Apps und zahlreichen zufriedenen Projekt-Partnern.</p>
+		<p>Ob nativ, hybrid oder webbasiert. Apps sind aus unserem Alltag nicht mehr wegzudenken. Ich arbeite seit über 10 Jahren in diesem Feld. Mit fast 250.000 Downloads der eigenen Apps und zahlreichen zufriedenen Projekt-Partnern.</p>
         <p><a href="mobile-apps.html" class="button small">Mehr</a></p>
 	</div>
 	<div class="4u 12u$(medium)">
@@ -24,7 +29,7 @@ show_tile: false
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>Agilität & Scrum</h3>
-		<p><b>Ausprobieren</b>, <b>lernen</b>, <b>weiterentwickeln</b>. Das sind die Kernaufgaben, um in kleinen Schritten kontinuierlich und kundenzentriert vorwärtszukommen. Immer mit dem Ziel einen dauerhaften Mehrwert zu generieren.</p>
+		<p><b>Ausprobieren</b>, <b>lernen</b>, <b>weiterentwickeln</b>. Das sind die Aufgaben, um in kleinen Schritten kontinuierlich und kundenzentriert vorwärtszukommen. Immer mit dem Ziel einen dauerhaften Mehrwert zu generieren.</p>
         <p><a href="philosophy.html" class="button small">Mehr</a></p>
 	</div>
 </div>
@@ -35,7 +40,7 @@ show_tile: false
 <div class="row">
 	<div class="6u 12u$(small)">
 		<div class="table-wrapper">
-        <h4>Technologien</h4>
+        <h3>Technologien</h3>
         <table class="alt">
             <thead>
                 <tr>
@@ -78,7 +83,7 @@ show_tile: false
 	</div>
 	<div class="6u$ 12u$(small)">
 		<div class="table-wrapper">
-        <h4>Werkzeuge</h4>
+        <h3>Werkzeuge</h3>
         <table class="alt">
             <thead>
                 <tr>
