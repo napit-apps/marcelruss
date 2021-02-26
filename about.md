@@ -9,11 +9,11 @@ show_tile: false
 
 
 <h2>{{ page.description }}</h2>
-<p>Spezialisiert auf die Entwicklung von mobilen Apps, arbeite ich seit Sommer 2018 in der Rolle <i>Team Leader Web & Mobile Application</i> bei <a href="https://hugoboss.com" target="_blank">HUGO BOSS</a>. Neben der fachlichen und disziplinarischen Führung des Entwickler-Teams, verantworte ich dort die Themen Rund um UI/UX und bin als Berater für agile Vorgehensmodelle (z.B. Scrum) tätig.</p>
+<p>Spezialisiert auf die Entwicklung von mobilen Apps, arbeite ich seit Sommer 2018 in der Rolle <i>Team Leader Web & Mobile Application</i> bei <a href="https://hugoboss.com" target="_blank">HUGO BOSS</a>. Neben der fachlichen und disziplinarischen Führung des Entwickler-Teams, verantworte ich dort die Themen rund um UI/UX und bin als Berater für agile Vorgehensmodelle (z.B. Scrum) tätig.</p>
 
 <p>Vor meinem Wechsel in die Fashion-Welt, war ich knapp sechs Jahre als IT Consultant in verschiednen Rollen für die automotive Branche im Raum Stuttgart tätig. Zu meinen Aufgaben gehörten die Beratung und Entwicklung, die (technische) Leitung der klassischen Projekte, sowie die Rollen Scrum Master und Product Owener in den agilen Produkten.</p>
 
-<p>Meine Abschluss zum Diplom Informatiker, im Studiengang Software-Engineering, habe ich 2012 an der Universität Stuttgart gemacht.</p>
+<p>Meine Abschluss zum Diplom Informatiker, im Studiengang Software-Engineering, habe ich 2012 an der Universität Stuttgart erlangt.</p>
 
 <h2>Kernkompetenzen</h2>
 <div class="row">
@@ -35,7 +35,6 @@ show_tile: false
 </div>
 
 <h2>Ein paar harte <i>dev</i>-Fakten</h2>
-
 <p>Folgende Listen zeigen einen Auszug meiner bisherigen Kerntechnologien und eingesetzten Werkzeugen. Sie wird stetig aktualisiert.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
@@ -124,8 +123,30 @@ show_tile: false
         </table>
         </div>
 	</div>
-	
 </div>
+
+<!--
+<h2>Hinter dem Bildschirm</h2>
+<div class="row">
+    <div class="4u 12u$(medium)">
+        <h3>Sport</h3>
+        <p>Draußen zuhause...</p>
+    </div>
+    <div class="4u 12u$(medium)">
+        <h3>Familie</h3>
+        <p></p>
+        <!--<p><a href="mobile-apps.html" class="button small">Mehr</a></p> 
+    </div>
+    <div class="4u$ 12u$(medium)">
+        <h3>Reisen</h3>
+        <p><b>Ausprobieren</b>, <b>lernen</b>, <b>weiterentwickeln</b>. Das sind die Aufgaben, um in kleinen Schritten kontinuierlich und kundenzentriert vorwärtszukommen. Immer mit dem Ziel einen dauerhaften Mehrwert zu generieren.</p>
+        <p><a href="http://itsworthy.de" target="_blank" class="button small">Mehr</a></p>
+    </div>
+</div> -->
+    
+    
+	
+
 
 
 
