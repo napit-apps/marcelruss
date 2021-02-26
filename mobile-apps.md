@@ -73,15 +73,4 @@ nav-menu: true
 	</section>
 </section>
 
-
-<!-- Two -->
-<section id="two">
-	<div class="inner">
-		<header class="major">
-			<h2>Kontakt</h2>
-		</header>
-		<p>Du möchtest eine App für dich oder dein Unternehmen entwickeln? <br />Ich freue mich auf unser Kennenlernen.</p>
-	</div>
-</section>
-
 </div>
