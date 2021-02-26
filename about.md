@@ -24,7 +24,7 @@ show_tile: false
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>Agilität & Scrum</h3>
-		<p><b>Ausprobieren</b>, <b>lernen</b>, <b>weiterentwickeln</b>. Das sind die Kernaufgaben, um in kleinen Schritten kontinuierlich und kundenzentriert vorwärtszukommen, mit dem Ziel einen dauerhaften Mehrwert zu generieren.</p>
+		<p><b>Ausprobieren</b>, <b>lernen</b>, <b>weiterentwickeln</b>. Das sind die Kernaufgaben, um in kleinen Schritten kontinuierlich und kundenzentriert vorwärtszukommen. Immer mit dem Ziel einen dauerhaften Mehrwert zu generieren.</p>
         <p><a href="philosophy.html" class="button small">Mehr</a></p>
 	</div>
 </div>
