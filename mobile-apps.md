@@ -56,9 +56,9 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<div class="image">
 			<img src="{% link assets/images/app-idea.jp2 %}" alt="" data-position="25% 25%" />
-		</a>
+		</div>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
