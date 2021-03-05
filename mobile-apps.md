@@ -39,18 +39,11 @@ nav-menu: true
 	<header class="major">
 		<h2>Mobile Apps für Unternehmen</h2>
 	</header>
-	<!-- <div class="row">
-		<div class="6u 12u$(small)">
-		
-		</div>
-		<div class="6u 12u$(small)"> -->
-		<p>Die Fähigkeit, innovative Geschäftsmodelle zu entwickeln, ist für Unternehmen angesichts von Globalisierung und Digitalisierung der Schlüssel, um wettbewerbsfähig zu bleiben. Mobile Apps sind dabei einen zentraler Baustein.</p>
-		<p>Apps bieten Unternehmen heutzutage viele Vorteile. Von dem digitalen Datenerfassung vor Ort beim Kunden, neuer Formen der Produktpräsentationen und interaktiven Messeauftritten, bis hin zur erweiterten Kundenbindung durch gezieltes und personalisiertes Marketing. 
-		<br />
-		Daneben eröffnen Apps einen potentiell neuen Markt. Digitale Zusatzservice für bereits gekaufte Produkte können wichtige neue Einnahmequellen bieten. Es ist daher kein Zufall, das Adidas 2015 die Fitness-App <i>Runtasic</i> für knapp 220 Mio. € übernahm.</p>
-		<blockquote>"Wir sind ein digitales Unternehmen geworden."<br />Kasper Rorsted (CEO von Adidas) 2018</blockquote>
-		<!-- </div>
-	</div> -->
+	<p>Die Fähigkeit, innovative Geschäftsmodelle zu entwickeln, ist für Unternehmen angesichts von Globalisierung und Digitalisierung der Schlüssel, um wettbewerbsfähig zu bleiben. Mobile Apps sind dabei einen zentraler Baustein.</p>
+	<p>Apps bieten Unternehmen heutzutage viele Vorteile. Von der digitalen Datenerfassung, neuer Formen der Produktpräsentationen und interaktiven Messeauftritten, bis hin zur erweiterten Kundenbindung durch gezieltes und personalisiertes Marketing. 
+	<br />
+	Daneben eröffnen Apps einen potentiell neuen Markt. Digitale Zusatzservice für bereits gekaufte Produkte können wichtige neue Einnahmequellen bieten. Es ist daher kein Zufall, das Adidas 2015 die Fitness-App <i>Runtasic</i> für knapp 220 Mio. € übernahm.</p>
+	<blockquote>"Wir sind ein digitales Unternehmen geworden."<br />Kasper Rorsted (CEO von Adidas) 2018</blockquote>
 	</div>
 
 </section>
