@@ -2,7 +2,7 @@
 title: App Entwicklung
 layout: landing
 description: 'Mobil seit iOS 2'
-image: assets/images/pic07.jp2
+image: assets/images/app-header.jp2
 nav-menu: true
 ---
 
@@ -37,7 +37,7 @@ nav-menu: true
 <!-- Two -->
 <div class="inner">	
 	<header class="major">
-		<h2>Ein kleiner Ausschnit meines App-Portfolios</h2>
+		<h2>Mein App Portfolio</h2>
 	</header>
 </div>
 
