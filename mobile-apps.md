@@ -11,15 +11,36 @@ nav-menu: true
 
 <!-- One -->
 <section id="one">
-	<div class="inner">
-		<header class="major">
-			<h2>Warum Apps?</h2>
-		</header>
-		<p>Apps bieten im Gegensatz zu den bekannten und schwerfälligen PC-Programme, dem Nutzer einen dem Anwendungsfall zugeschnittenen leichtgewichtigen Mehrwert, der immer und überall verfügbar ist.</p>
+	<div class="inner">	
+	<header class="major">
+		<h2>Warum mobile Apps?</h2>
+	</header>
+	<div class="row">
+		<div class="6u 12u$(small)">
+		<p>Mobile Apps sind aus unserem Alltag nicht mehr wegzudenken. Es gibt für (fast) jedes Problem eine App. Vom morgendlichen Wecker, der Tageszeitung, der Bus-Fahrplan, dem Einkaufen und so weiter. 
+		<br />
+		Und das aus gutem Grund. Apps laufen auf dem persönlichsten und emotionalsten Gerät, das wir besitzen - unserem Smartphone.<br />
+		Wir haben es immer dabei, es verbindet uns mit der Familie und den Freunden. Wir werden nervös wenn der Akku zur Neige geht oder das Netz (mal wieder in Deutschland) nicht auffindbar ist.</p>
+		<p>Im Gegensatz zu klassischen PC Programmen, sind Apps leichtgewichtig und bedienen meist einen spezifischen Anwendungsfall mit einem klaren Ziel. Da sie für uns Nutzer quasi immer verfügbar sind, macht sie das zur idealen Plattform. Zusätzlich ermöglichen die im Smartphone verbauten Sensoren völlig neue Einsatzmöglichkeiten. Die App myWork nutzt beispielsweise die Standortbestimmung um das Erfassen der Arbeitszeit automatisch zu starten und zu stoppen - Ganz ohne Benutzerinteraktion.</p>
+		</div>
+		<div class="6u 12u$(small)">
+		<a href="https://de.wikipedia.org/wiki/Maslowsche_Bedürfnishierarchie" class="image" target="_blank">
+			<img src="{% link assets/images/Maslowsche-Pyramide.jp2 %}" alt="" data-position="25% 25%" />			
+		</a>
+		<p class="small"><a href="https://de.wikipedia.org/wiki/Maslowsche_Bedürfnishierarchie" target="_blank">Bedürfnistabelle nach Abraham Maslow</a> - Erweitert für das digitale Zeitalter</p>
+		</div>
 	</div>
+	</div>
+
 </section>
 
 <!-- Two -->
+<div class="inner">	
+	<header class="major">
+		<h2>Ein kleiner Ausschnit meines App-Portfolios</h2>
+	</header>
+</div>
+
 <section id="two" class="spotlights">
 	<section>
 		<a href="https://itunes.apple.com/de/app/mywork/id487617582?l=de" class="image">
