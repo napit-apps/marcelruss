@@ -21,7 +21,7 @@ nav-menu: true
 		<br />
 		Und das aus gutem Grund. Apps laufen auf dem persönlichsten und emotionalsten Gerät, das wir besitzen - unserem Smartphone.<br />
 		Wir haben es immer dabei, es verbindet uns mit der Familie und den Freunden. Wir werden nervös wenn der Akku zur Neige geht oder das Netz (mal wieder in Deutschland) nicht auffindbar ist.</p>
-		<p>Im Gegensatz zu klassischen PC Programmen, sind Apps leichtgewichtig und bedienen meist einen spezifischen Anwendungsfall mit einem klaren Ziel. Da sie für uns Nutzer quasi immer verfügbar sind, macht sie das zur idealen Plattform. Zusätzlich ermöglichen die im Smartphone verbauten Sensoren völlig neue Einsatzmöglichkeiten. Die App myWork nutzt beispielsweise die Standortbestimmung um das Erfassen der Arbeitszeit automatisch zu starten und zu stoppen - Ganz ohne Benutzerinteraktion.</p>
+		<p>Im Gegensatz zu klassischen PC Programmen, sind Apps leichtgewichtig und bedienen meist einen spezifischen Anwendungsfall ausgelegt auf ein klares Ziel. Da sie für uns Nutzer quasi immer verfügbar sind, macht sie das zur idealen Plattform. Zusätzlich ermöglichen die im Smartphone verbauten Sensoren völlig neue Einsatzmöglichkeiten. Die App myWork nutzt beispielsweise die Standortbestimmung um das Erfassen der Arbeitszeit automatisch zu starten und zu stoppen - Ganz ohne Benutzerinteraktion.</p>
 		</div>
 		<div class="6u 12u$(small)">
 		<a href="https://de.wikipedia.org/wiki/Maslowsche_Bedürfnishierarchie" class="image" target="_blank">
