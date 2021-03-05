@@ -2,7 +2,7 @@
 layout: post
 title: Leistungen
 description: 'iOS App Entwicklung, UI/UX Design, Agile Beratung und Coaching, …'
-image: assets/images/pic07.jpg
+image: assets/images/pic07.jp2
 nav-menu: true
 ---
 

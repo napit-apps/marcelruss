@@ -2,7 +2,7 @@
 title: App Entwicklung
 layout: landing
 description: 'Mobil seit iOS 2'
-image: assets/images/pic07.jpg
+image: assets/images/pic07.jp2
 nav-menu: true
 ---
 
