@@ -21,7 +21,7 @@ nav-menu: true
 		<br />
 		Und das aus gutem Grund. Apps laufen auf dem persönlichsten und emotionalsten Gerät, das wir besitzen - unserem Smartphone.<br />
 		Wir haben es immer dabei, es verbindet uns mit der Familie und den Freunden. Wir werden nervös wenn der Akku zur Neige geht oder das Netz (mal wieder in Deutschland) nicht auffindbar ist.</p>
-		<p>Im Gegensatz zu klassischen PC Programmen, sind Apps leichtgewichtig und bedienen meist einen spezifischen Anwendungsfall ausgelegt auf ein klares Ziel. Da sie für uns Nutzer quasi immer verfügbar sind, macht sie das zur idealen Plattform. Zusätzlich ermöglichen die im Smartphone verbauten Sensoren völlig neue Einsatzmöglichkeiten. Die App myWork nutzt beispielsweise die Standortbestimmung um das Erfassen der Arbeitszeit automatisch zu starten und zu stoppen - ganz ohne Benutzerinteraktion.</p>
+		<p>Im Gegensatz zu klassischen PC Programmen, sind Apps leichtgewichtig und bedienen meist einen spezifischen Anwendungsfall ausgelegt auf ein klares Ziel. Da sie für uns Nutzer quasi immer verfügbar sind, macht sie das zur idealen Plattform. Zusätzlich ermöglichen die im Smartphone verbauten Sensoren völlig neue Einsatzmöglichkeiten. Die App myWork nutzt beispielsweise die Standortbestimmung, um das Erfassen der Arbeitszeit automatisch zu starten und zu stoppen - ganz ohne Benutzerinteraktion.</p>
 		</div>
 		<div class="6u 12u$(small)">
 		<a href="https://de.wikipedia.org/wiki/Maslowsche_Bedürfnishierarchie" class="image" target="_blank">
@@ -30,14 +30,8 @@ nav-menu: true
 		<p class="small"><a href="https://de.wikipedia.org/wiki/Maslowsche_Bedürfnishierarchie" target="_blank">Bedürfnistabelle nach Abraham Maslow</a> - Erweitert für das digitale Zeitalter</p>
 		</div>
 	</div>
-	</div>
-
-</section>
-
-<section id="two">
-	<div class="inner">	
-	<header class="major">
-		<h2>Mobile Apps für Unternehmen</h2>
+	<header class="minor">
+		<h3>Mobile Apps für Unternehmen</h3>
 	</header>
 	<p>Die Fähigkeit, innovative Geschäftsmodelle zu entwickeln, ist für Unternehmen angesichts von Globalisierung und Digitalisierung der Schlüssel, um wettbewerbsfähig zu bleiben. Mobile Apps sind dabei ein zentraler Baustein.</p>
 	<p>Apps bieten Unternehmen heutzutage viele Vorteile. Von der digitalen Datenerfassung, neuen Formen der Produktpräsentation und interaktiven Messeauftritten, bis hin zur erweiterten Kundenbindung durch gezieltes Marketing. 
@@ -45,8 +39,8 @@ nav-menu: true
 	Daneben eröffnen Apps einen potenziell neuen Markt. Digitale Zusatzservice für bereits gekaufte Produkte können wichtige neue Einnahmequellen bieten. Es ist daher kein Zufall, das Adidas 2015 die Fitness-App <i>Runtasic</i> für knapp 220 Mio. € übernahm.</p>
 	<blockquote>"Wir sind ein digitales Unternehmen geworden."<br />Kasper Rorsted (CEO von Adidas) 2018</blockquote>
 	</div>
-
 </section>
+
 
 <!-- Two -->
 <div class="inner">	
@@ -92,7 +86,7 @@ nav-menu: true
 	</section>
 	<section>
 		<div class="image">
-			<img src="{% link assets/images/app-idea.jp2 %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/app-idea.jpg %}" alt="" data-position="25% 25%" />
 		</div>
 		<div class="content">
 			<div class="inner">
