@@ -47,12 +47,12 @@ nav-menu: true
 	<header class="major">
 		<h2>Mein App Portfolio</h2>
 	</header>
-	<p>Angefangen hat alles mit dem Kauf meines ersten Macbooks im Sommer 2010. Für Studenten gab es damals noch einen iPod Touch von Apple kostenlos dazu. Und, was soll ich sagen?! Ich war begeistert von diesen Geräten! Die Einfacheit mit der sie zu bedienen waren und das fast perfekte Zusammenspiel war mit meiner bisherigen Windows Welt nicht zu vergleichen. -
+	<p>Angefangen hat alles mit dem Kauf meines ersten Macbooks im Sommer 2010. Für Studenten gab es damals noch einen iPod Touch von Apple kostenlos dazu. Und, was soll ich sagen?! Ich war begeistert! Die Einfacheit mit der diese Geräte zu bedienen waren und das fast perfekte Zusammenspiel, war mit meiner bisherigen Windows Welt nicht zu vergleichen. -
 	<i>Keine Sorge, das wird keine Lobpreisung Apples ;-)</i> 
 	<br/>
-	Aber für mich stand fest, so muss Software sein! Da ich bis zum Beginn des neuen Semesters noch etwas Zeit hatte und sich meine Programmierkenntnisse bis dato sehr in Grenzen hielten, beschloss ich meine erste App zu entwickeln.
+	Aber für mich stand fest, so muss Software sein! Da ich bis zum Beginn des neuen Semesters noch etwas Zeit hatte und sich meine Programmierkenntnisse bis dato sehr in Grenzen hielten, beschloss ich die meine erste eigene App zu entwickeln.
 	<br />
-	Da ich meinen iPod quasi überall dabei hatte, war ein Anwendungsfall schnell gefunden. Ich wollte das Erfassen der Arbeitszeiten in meinen Nebenjobs verbessern. Dieses sollte schneller, intuitiver und genauer als mein bisheriges Excel-Sheet werden.
+	Da ich meinen iPod quasi überall dabei hatte, war der Anwendungsfall schnell gefunden. Ich wollte das Erfassen der Arbeitszeiten in meinen Nebenjobs verbessern. Es sollte vor allem schneller, intuitiver und genauer werden als mein bisheriges Excel-Sheet.
 	<br />
 	Die App, die daraus entstand, ist nun seit bald 10 Jahren im AppStore und gehört mit fast 250.000 Downloads und mehr als 3000 zufriedenen Bewertungen dauerhaft zu den Top 200 in Apples AppStore. 
 	Ihre Entwicklung entfachte meine Leidenschaft für Apps und prägt meine berufliche Laufbahn bis heute.
