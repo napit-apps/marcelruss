@@ -14,4 +14,5 @@ Sie beschreibt die Fähigkeit sich immer wieder neu zu erfinden und niemals den 
     <img src="{% link assets/images/agile_manifesto.jp2 %}" alt="" data-position="25% 25%" />			
 </a>
 
+
 	
