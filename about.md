@@ -126,7 +126,7 @@ show_tile: false
 </div>
 
 
-<!--<h2>Vor dem Monitor, ein bischen privat</h2>
+<h2>Vor dem Monitor, ein bischen privat</h2>
 <div class="row">
     <div class="4u 12u$(medium)">
         <h3>Sport</h3>
@@ -141,7 +141,7 @@ show_tile: false
         <h3>Reisen</h3>
         <div class="33u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
     </div>
-</div> -->
+</div>
     
     
 	
