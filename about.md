@@ -116,7 +116,7 @@ show_tile: false
                     <td>+++</td>
                 </tr>
                 <tr>
-                    <td>Jenkins H</td>
+                    <td>Jenkins</td>
                     <td>+++</td>
                 </tr>
             </tbody>
