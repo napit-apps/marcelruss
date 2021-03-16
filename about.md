@@ -140,8 +140,8 @@ show_tile: false
     <div class="4u$ 12u$(medium)">
         <h3>Reisen</h3>
         <div class="33u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
-    </div> -->
-</div>
+    </div> 
+</div>-->
     
     
 	
