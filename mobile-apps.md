@@ -17,7 +17,7 @@ nav-menu: true
 	</header>
 	<div class="row">
 		<div class="6u 12u$(small)">
-		<p>Mobile Apps hhallo sind aus unserem Alltag nicht mehr wegzudenken. Sie bieten für (fast) jedes Problem eine Lösung.  
+		<p>Mobile Apps sind aus unserem Alltag nicht mehr wegzudenken. Sie bieten für (fast) jedes Problem eine Lösung.  
 		<br />
 		Und das aus gutem Grund. Apps laufen auf dem persönlichsten und emotionalsten Gerät, das wir besitzen - unserem Smartphone.<br />
 		Wir haben es immer dabei, es verbindet uns mit der Familie und den Freunden. Wir werden nervös wenn der Akku zur Neige geht oder das Netz (mal wieder in Deutschland) nicht auffindbar ist.</p>
