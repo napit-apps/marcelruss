@@ -20,7 +20,7 @@ show_tile: false
 	<div class="4u 12u$(medium)">
 		<h3>App Entwicklung</h3>
 		<p>Ob nativ, hybrid oder webbasiert. Apps sind aus unserem Alltag nicht mehr wegzudenken. Ich arbeite seit über 10 Jahren in diesem Feld. Mit fast 250.000 Downloads der eigenen Apps und zahlreichen zufriedenen Projekt-Partnern.</p>
-        <p><a href="mobile-apps.html" class="button small">Mehr</a></p>
+        <p><a href="mobile-apps.html" class="button small special">Mehr</a></p>
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>UI/UX Design</h3>
@@ -30,7 +30,10 @@ show_tile: false
 	<div class="4u$ 12u$(medium)">
 		<h3>Agilität & Scrum</h3>
 		<p><b>Ausprobieren</b>, <b>lernen</b>, <b>weiterentwickeln</b>. Das sind die Aufgaben, um in kleinen Schritten kontinuierlich und kundenzentriert vorwärtszukommen. Immer mit dem Ziel einen dauerhaften Mehrwert zu generieren.</p>
-        <p><a href="philosophy.html" class="button small">Mehr</a></p>
+        <ul class="actions">
+	    <li><a href="philosophy.html" class="button small special">Mehr</a></li>
+	    <li><a href="https://www.scrum.org/user/354382" class="button small" target="_blank">Scrum.org</a></li>
+        </ul>
 	</div>
 </div>
 
