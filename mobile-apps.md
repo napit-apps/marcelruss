@@ -61,7 +61,7 @@ nav-menu: true
 
 <section id="three" class="spotlights">
 	<section>
-		<a href="https://itunes.apple.com/de/app/mywork/id487617582?l=de" class="image">
+		<a href="https://apps.apple.com/de/app/mywork/id487617582?l=de#?platform=iphone" target="_blank" class="image">
 			<img src="{% link assets/images/myWork.jp2 %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -72,13 +72,13 @@ nav-menu: true
 				<p>Vollumfängliche Arbeitszeiterfassung - vielseitig, einfach und sicher! Auf Wunsch sogar automatisch anhand deines Arbeitsplatzes und über alle deine Geräte synchron.</p>
 				<ul class="actions">
 					<li><a href="https://napit-apps.github.io/index-de.html" class="button small">Mehr</a></li>
-					<li><a class="badge-link" href="https://itunes.apple.com/de/app/mywork/id487617582?l=de" target="_blank"><img src="assets/images/app-store-badge.svg" alt=""></a></li>
+					<li><a class="badge-link" href="https://apps.apple.com/de/app/mywork/id487617582?l=de#?platform=iphone" target="_blank"><img src="assets/images/app-store-badge.svg" alt=""></a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="https://apps.apple.com/de/app/mymoney-housekeeping-book/id1341614338?l=de" class="image">
+		<a href="https://apps.apple.com/de/app/mymoney-housekeeping-book/id1341614338#?platform=iphone" target="_blank" class="image">
 			<img src="{% link assets/images/myMoney.jp2 %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -89,7 +89,7 @@ nav-menu: true
 				<p>Ein Haushaltsbuch, reduziert auf das Nötigste und doch mit allem was du brauchst! myMoney bietet dir schnelles Erfassen gepaart mit starken Auswertungen.</p>
 				<ul class="actions">
 					<li><a href="https://napit-apps.github.io/index-de.html" class="button small">Mehr</a></li>
-					<li><a class="badge-link" href="https://apps.apple.com/de/app/mymoney-housekeeping-book/id1341614338?l=de" target="_blank"><img src="assets/images/app-store-badge.svg" alt=""></a></li>
+					<li><a class="badge-link" href="https://apps.apple.com/de/app/mymoney-housekeeping-book/id1341614338#?platform=iphone" target="_blank"><img src="assets/images/app-store-badge.svg" alt=""></a></li>
 				</ul>
 			</div>
 		</div>
