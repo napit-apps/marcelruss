@@ -62,8 +62,7 @@ nav-menu: true
 	<div class="row">
 		<div class="8u 12u$(small)">
         <p>Qualität und die darauß resultierende Nachhaltigkeit spielen für mich eine zentrale Rolle. Wir sind die Generation, die mit durchdachten und intelligienten Ideen für den Erhalt unserer Erde kämpfen muss.</p>
-        <p>Schlanke Prozesse und schlaue Werkzeuge können die bisher eingesetzen Ressourcen teilweise dramatisch reduzieren und so zu einer dauerhaften Verbesserung beitragen.
-        <br /> - Den <a href="https://de.wikipedia.org/wiki/Return_on_Investment" target="_bank">Return On Invest</a> fest im Blick.</p>    
+        <p>Schlanke Prozesse und schlaue Werkzeuge können die bisher eingesetzen Ressourcen teilweise dramatisch reduzieren und so zu einer dauerhaften Verbesserung beitragen - fokusiert auf den <a href="https://de.wikipedia.org/wiki/Return_on_Investment" target="_bank">Return On Invest</a>.</p>    
 		<blockquote>"Wer billig kauft, kauft zweimal!" <br />(M)eine schwäbische Oma.</blockquote>
 		</div>
 		<div class="4u 12u$(small)">
@@ -87,7 +86,7 @@ nav-menu: true
 		<div class="8u 12u$(small)">
 		<p>Mein Sinn des Lebens ist, es in vollen Zügen zu genießen.
         <br >Ich möchte meine Zeit mit Menschen und Tätigkeiten füllen, die mich bereichern und (mit) mir Spaß machen. 
-        <br />Ich liebe es mit professionenllen Partnern komplizierte Aufgaben zu lösen. Es ist toll etwas zu erreichen, das anfangs unmöglich erscheint und am Ende einen echten Mehrwert generiert. - Das ist meine Leidenschaft!</p>
+        <br />Ich liebe es mit professionenllen Partnern komplizierte Aufgaben zu lösen. Es ist toll etwas zu erreichen, das anfangs unmöglich erscheint und am Ende einen echten Mehrwert generiert - das ist meine Leidenschaft!</p>
 		</div>
 	</div>
     </div>
