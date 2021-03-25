@@ -23,7 +23,7 @@ nav-menu: true
 		</div>
 		<div class="8u 12u$(small)">
 		<a href="https://agilemanifesto.org/iso/de/manifesto.html" class="image" target="_blank">
-            <img src="{% link assets/images/agile_manifesto.jpg %}" alt="" data-position="25% 25%" /></a>
+            <img src="{% link assets/images/agile_manifesto.png %}" alt="" data-position="25% 25%" /></a>
             <!--<p class="small">Agile Manifest</p> -->
 		</div>
 	</div>
