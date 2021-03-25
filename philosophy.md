@@ -86,7 +86,7 @@ nav-menu: true
 		<div class="8u 12u$(small)">
 		<p>Mein Sinn des Lebens ist, es in vollen Zügen zu genießen.
         <br >Ich möchte meine Zeit mit Menschen und Tätigkeiten füllen, die mich bereichern und (mit) mir Spaß machen. 
-        <br />Ich liebe es mit professionenllen Partnern komplizierte Aufgaben zu lösen. Es ist toll etwas zu erreichen, das anfangs unmöglich erscheint und am Ende einen echten Mehrwert generiert - das ist meine Leidenschaft!</p>
+        <br />Es ist toll, mit professionellen Partnern komplizierte Aufgaben zu lösen. Und dabei etwas zu erreichen, das anfangs unmöglich erscheint und am Ende einen echten Mehrwert generiert - das ist meine Leidenschaft!</p>
 		</div>
 	</div>
     </div>
