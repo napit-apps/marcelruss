@@ -23,7 +23,7 @@ nav-menu: true
 		</div>
 		<div class="8u 12u$(small)">
 		<a href="https://agilemanifesto.org/iso/de/manifesto.html" class="image" target="_blank">
-            <img src="{% link assets/images/agile_manifesto.jp2 %}" alt="" data-position="25% 25%" /></a>
+            <img src="{% link assets/images/agile_manifesto.jpg %}" alt="" data-position="25% 25%" /></a>
             <!--<p class="small">Agile Manifest</p> -->
 		</div>
 	</div>
@@ -38,7 +38,7 @@ nav-menu: true
 	<div class="row">
 		<div class="4u 12u$(small)">
         <a href="https://www.fragimmererstwarum.de" class="image" target="_blank">
-        <img src="{% link assets/images/whyWhatHow.jp2 %}" alt="" data-position="25% 25%" /></a>
+        <img src="{% link assets/images/whyWhatHow.png %}" alt="" data-position="25% 25%" /></a>
 		</div>
 		<div class="8u 12u$(small)">
 		<p>Für mich steht der Kunde im Mittelpunkt. Immer mit dem Ziel, ihn und sein Problem genau zu vestehen und daraus die für ihn beste und einfachste Lösung zu entwickeln. 

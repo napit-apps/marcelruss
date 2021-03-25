@@ -2,7 +2,7 @@
 title: App Entwicklung
 layout: landing
 description: 'Mobil seit iOS 2'
-image: assets/images/app-header.jp2
+image: assets/images/app-header.jpg
 nav-menu: true
 ---
 
@@ -62,7 +62,7 @@ nav-menu: true
 <section id="three" class="spotlights">
 	<section>
 		<a href="https://apps.apple.com/de/app/mywork/id487617582?l=de#?platform=iphone" target="_blank" class="image">
-			<img src="{% link assets/images/myWork.jp2 %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/myWork.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -79,7 +79,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="https://apps.apple.com/de/app/mymoney-housekeeping-book/id1341614338#?platform=iphone" target="_blank" class="image">
-			<img src="{% link assets/images/myMoney.jp2 %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/myMoney.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -96,7 +96,7 @@ nav-menu: true
 	</section>
 	<section>
 		<div class="image">
-			<img src="{% link assets/images/app-idea.jp2 %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/app-idea.jpg %}" alt="" data-position="25% 25%" />
 		</div>
 		<div class="content">
 			<div class="inner">

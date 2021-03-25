@@ -2,7 +2,7 @@
 layout: post
 title: Über Mich
 description: Hi, ich bin Marcel, <br />Software-Ingenieur aus'm Ländle.
-image: assets/images/about.jp2
+image: assets/images/about.jpg
 nav-menu: true
 show_tile: false
 ---
@@ -133,16 +133,16 @@ show_tile: false
 <div class="row">
     <div class="4u 12u$(medium)">
         <h3>Sport</h3>
-        <div class="33u"><span class="image fit"><img src="{% link assets/images/desktop.jp2 %}" alt="" /></span></div>
+        <div class="33u"><span class="image fit"><img src="{% link assets/images/desktop.jpg %}" alt="" /></span></div>
     </div>
     <div class="4u 12u$(medium)">
         <h3>Familie</h3>
-        <div class="33u"><span class="image fit"><img src="{% link assets/images/desktop.jp2 %}" alt="" /></span></div>
+        <div class="33u"><span class="image fit"><img src="{% link assets/images/desktop.jpg %}" alt="" /></span></div>
         <!--<p><a href="mobile-apps.html" class="button small">Mehr</a></p>  
     </div>
     <div class="4u$ 12u$(medium)">
         <h3>Reisen</h3>
-        <div class="33u"><span class="image fit"><img src="{% link assets/images/desktop.jp2 %}" alt="" /></span></div>
+        <div class="33u"><span class="image fit"><img src="{% link assets/images/desktop.jpg %}" alt="" /></span></div>
     </div> 
 </div>-->
     
