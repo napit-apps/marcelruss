@@ -74,7 +74,7 @@ nav-menu: true
     </div>
 </section>
 
-<!-->
+<!--
 <section id="four">
 	<div class="inner">	
 	<header class="major">
