@@ -2,7 +2,7 @@
 layout: post
 title: Philosophie
 description: Agilität ist ein Mindset, keine Zertifizierung
-image: assets/images/philosophy.jp2
+image: assets/images/philosophy.jpg
 nav-menu: true
 ---
 
