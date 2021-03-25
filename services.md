@@ -15,7 +15,7 @@ nav-menu: true
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Agile Coaching</h3>
-		<p>Agile Methonden bieten in der heutigen <a href="https://de.wikipedia.org/wiki/VUCA" target = "_blank">VUCA Welt</a> neue Ansätze um effizient und nachhaltig Mehrwert zu generieren. Leider wurden jedoch in den letzten Jahren versucht Frameworks wie Scrum stark zu kommerzialisieren. Als Alternative zu den (überteuerten) Trainings, stehe ich euch beiseite und helfe deinem Team direkt bei der agilen Transformation.</p>
+		<p>Agile Methonden bieten in der heutigen <a href="https://de.wikipedia.org/wiki/VUCA" target = "_blank">VUCA Welt</a> neue Ansätze um effizient und nachhaltig Mehrwert zu generieren. Jedoch wurde in den letzten Jahren leider versucht, Frameworks wie Scrum stark zu kommerzialisieren. Als Alternative zu den (überteuerten) Trainings, stehe ich euch beiseite und helfe deinem Team direkt bei der agilen Transformation.</p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
