@@ -33,7 +33,7 @@ nav-menu: true
 <section id="two">
 	<div class="inner">	
 	<header class="major">
-		<h2>Immer den Kunden im Fokus</h2>
+		<h2>Den Kunden immer im Fokus</h2>
 	</header>
 	<div class="row">
 		<div class="4u 12u$(small)">
@@ -41,7 +41,7 @@ nav-menu: true
         <img src="{% link assets/images/whyWhatHow.jp2 %}" alt="" data-position="25% 25%" /></a>
 		</div>
 		<div class="8u 12u$(small)">
-		<p>Für mich steht der Kunde im Mittelpunkt. Immer mit dem Ziel, ihn und das Problem genau zu vestehen und daraus die für ihn beste und einfachste Lösung zu entwickeln. 
+		<p>Für mich steht der Kunde im Mittelpunkt. Immer mit dem Ziel, ihn und sein Problem genau zu vestehen und daraus die für ihn beste und einfachste Lösung zu entwickeln. 
         <br />
         <br /> Um das zu erreichen, folge ich bei allem was ich tue drei einfachen Grundregeln:</p>   
         <ul class="alt">
@@ -53,24 +53,28 @@ nav-menu: true
 	</div>
     </div>
 </section>
-
-<!-- 
+ 
 <section id="three">
 	<div class="inner">	
 	<header class="major">
 		<h2>Qualität und Nachhaltigkeit</h2>
 	</header>
 	<div class="row">
-		<div class="4u 12u$(small)">
-        <blockquote>Technisch ist alles möglich…</blockquote>
-		</div>
 		<div class="8u 12u$(small)">
-        <p>… Aber nicht alles ist wirtschaftlich sinnvoll.</p>
+        <p>Qualität und die darauß resultierende Nachhaltigkeit spielen für mich eine zentrale Rolle. Wir sind die Generation, die mit durchdachten und intelligienten Ideen für den Erhalt unserer Erde kämpfen muss.</p>
+        <p>Schlanke Prozesse und schlaue Werkzeuge können die bisher eingesetzen Ressourcen teilweise dramatisch reduzieren und so zu einer dauerhaften Verbesserung beitragen.
+        <br /> - Den <a href="https://de.wikipedia.org/wiki/Return_on_Investment" target="_bank">Return On Invest</a> fest im Blick.</p>    
+		<blockquote>"Wer billig kauft, kauft zweimal!" <br />(M)eine schwäbische Oma.</blockquote>
+		</div>
+		<div class="4u 12u$(small)">
+		<img src="{% link assets/images/ph_quality.png %}" alt="" data-position="25% 25%" />
+            <!--<p class="small">Agile Manifest</p> -->
 		</div>
 	</div>
     </div>
 </section>
 
+<!-->
 <section id="four">
 	<div class="inner">	
 	<header class="major">
@@ -85,13 +89,5 @@ nav-menu: true
 		</div>
 	</div>
     </div>
-</section>
-</div>
-
-<h2>Die Kraft des Ingenieurs steckt nicht in seinen Armen.</h2> -->
-
-
-
-
-
-	
+</section> -->
+</div>	
