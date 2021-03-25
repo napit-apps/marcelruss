@@ -74,7 +74,6 @@ nav-menu: true
     </div>
 </section>
 
-<!--
 <section id="four">
 	<div class="inner">	
 	<header class="major">
@@ -82,12 +81,15 @@ nav-menu: true
 	</header>
 	<div class="row">
 		<div class="4u 12u$(small)">
-        <blockquote>Hallo</blockquote>
+        <a href="https://de.wikipedia.org/wiki/42_(Antwort)" class="image" target="_blank">
+        <img src="{% link assets/images/fun.png %}" alt="" data-position="25% 25%" /></a>
 		</div>
 		<div class="8u 12u$(small)">
-        <p>… Welt.</p>
+		<p>Mein Sinn des Lebens ist, es in vollen Zügen zu genießen.
+        <br >Ich möchte meine Zeit mit Menschen und Tätigkeiten füllen, die mich bereichern und (mit) mir Spaß machen. 
+        <br />Ich liebe es mit professionenllen Partnern komplizierte Aufgaben zu lösen. Es ist toll etwas zu erreichen, das anfangs unmöglich erscheint und am Ende einen echten Mehrwert generiert. - Das ist meine Leidenschaft!</p>
 		</div>
 	</div>
     </div>
-</section> -->
+</section>
 </div>	
