@@ -25,7 +25,7 @@ nav-menu: true
 		</div>
 		<div class="6u 12u$(small)">
 		<a href="https://de.wikipedia.org/wiki/Maslowsche_Bedürfnishierarchie" class="image" target="_blank">
-			<img src="{% link assets/images/Maslowsche-Pyramide.jp2 %}" alt="" data-position="25% 25%" />			
+			<img src="{% link assets/images/Maslowsche-Pyramide.png %}" alt="" data-position="25% 25%" />			
 		</a>
 		<p class="small"><a href="https://de.wikipedia.org/wiki/Maslowsche_Bedürfnishierarchie" target="_blank">Bedürfnistabelle nach Abraham Maslow</a> - Erweitert für das digitale Zeitalter</p>
 		</div>
