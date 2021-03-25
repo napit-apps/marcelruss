@@ -7,7 +7,7 @@ nav-menu: true
 ---
 
 
-<p>Du sucht einen professionellen und kompetenten Partner für dein nächstes Projekt? Auf dieser Seite findest du einen Überblick meiner Dienstleitungen. Dabei biete ich dir einen für dich zugeschnitten und bedarfsgerechten Rahmen: Von einer dedizierte Spotberatung, bis hin zur vollumfänglichen Gesamtlösung. Ich freue mich darauf, dich unverbindlich bei einem Kaffee kennenzulernen.</p>
+<p>Du sucht einen professionellen und kompetenten Partner für dein nächstes Projekt? Auf dieser Seite findest du einen Überblick meiner Leistungen. Dabei biete ich dir einen für dich zugeschnitten und bedarfsgerechten Rahmen: Von einer dedizierte Spotberatung, bis hin zur vollumfänglichen Gesamtlösung. Ich freue mich darauf, dich unverbindlich bei einem Kaffee kennenzulernen.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>App Beratung und Entwicklung</h3>
