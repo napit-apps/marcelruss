@@ -1,6 +1,10 @@
 .jekyll-cache/*
 _site/*
 
+.DS_Store
+_sass/.DS_Store
+assets/.DS_Store
+
 assets/images/forty.jpg
 assets/images/pic01.jpg
 assets/images/pic02.jpg
