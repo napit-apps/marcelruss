@@ -53,31 +53,59 @@ show_tile: false
             <tbody>
                 <tr>
                     <td>Swift</td>
-                    <td>+++++</td>
+                    <td><img class="skillimage" src="{% link assets/images/five.png %}" alt="" /></td>
                 </tr>
                 <tr>
                     <td>Objective-C</td>
-                    <td>+++++</td>
+                    <td><img class="skillimage" src="{% link assets/images/five.png %}" alt="" /></td>
+                </tr>
+                <tr>
+                    <td>UIKit + CoreGraphics</td>
+                    <td><img class="skillimage" src="{% link assets/images/five.png %}" alt="" /></td>
+                </tr>
+                <tr>
+                    <td>CoreData</td>
+                    <td><img class="skillimage" src="{% link assets/images/four.png %}" alt="" /></td>
+                </tr>
+                <tr>
+                    <td>iCloud/CloudKit</td>
+                    <td><img class="skillimage" src="{% link assets/images/five.png %}" alt="" /></td>
+                </tr>
+                <tr>
+                    <td>SwiftUI</td>
+                    <td><img class="skillimage" src="{% link assets/images/three.png %}" alt="" /></td>
+                </tr>
+                <tr>
+                    <td>CoreLocations</td>
+                    <td><img class="skillimage" src="{% link assets/images/five.png %}" alt="" /></td>
+                </tr>
+                <tr>
+                    <td>XCTest</td>
+                    <td><img class="skillimage" src="{% link assets/images/four.png %}" alt="" /></td>
                 </tr>
                 <tr>
                     <td>Java</td>
-                    <td>+++</td>
+                    <td><img class="skillimage" src="{% link assets/images/three.png %}" alt="" /></td>
                 </tr>
                 <tr>
                     <td>HTML/CSS</td>
-                    <td>++++</td>
+                    <td><img class="skillimage" src="{% link assets/images/four.png %}" alt="" /></td>
                 </tr>
                 <tr>
-                    <td>Jekyll</td>
-                    <td>+++</td>
+                    <td>JS</td>
+                    <td><img class="skillimage" src="{% link assets/images/three.png %}" alt="" /></td>
                 </tr>
                 <tr>
                     <td>XML</td>
-                    <td>++++</td>
+                    <td><img class="skillimage" src="{% link assets/images/three.png %}" alt="" /></td>
                 </tr>
                 <tr>
                     <td>RESTful Services</td>
-                    <td>++++</td>
+                    <td><img class="skillimage" src="{% link assets/images/three.png %}" alt="" /></td>
+                </tr>
+                <tr>
+                    <td>Bash</td>
+                    <td><img class="skillimage" src="{% link assets/images/four.png %}" alt="" /></td>
                 </tr>
             </tbody>
         </table>
@@ -96,31 +124,43 @@ show_tile: false
             <tbody>
                 <tr>
                     <td>Xcode</td>
-                    <td>+++++</td>
+                    <td><img class="skillimage" src="{% link assets/images/five.png %}" alt="" /></td>
                 </tr>
                 <tr>
                     <td>Visual Studio Code</td>
-                    <td>+++</td>
+                    <td><img class="skillimage" src="{% link assets/images/three.png %}" alt="" /></td>
                 </tr>
                 <tr>
                     <td>Balsamiq Mockup</td>
-                    <td>++++</td>
+                    <td><img class="skillimage" src="{% link assets/images/four.png %}" alt="" /></td>
                 </tr>
                 <tr>
                     <td>Git</td>
-                    <td>+++++</td>
+                    <td><img class="skillimage" src="{% link assets/images/five.png %}" alt="" /></td>
                 </tr>
                 <tr>
                     <td>Jira/Confulence</td>
-                    <td>++++</td>
+                    <td><img class="skillimage" src="{% link assets/images/four.png %}" alt="" /></td>
                 </tr>
                 <tr>
                     <td>TFS/Azure DevOps</td>
-                    <td>+++</td>
+                    <td><img class="skillimage" src="{% link assets/images/three.png %}" alt="" /></td>
+                </tr>
+                <tr>
+                    <td>MS Teams</td>
+                    <td><img class="skillimage" src="{% link assets/images/four.png %}" alt="" /></td>
+                </tr>
+                <tr>
+                    <td>Slack</td>
+                    <td><img class="skillimage" src="{% link assets/images/five.png %}" alt="" /></td>
                 </tr>
                 <tr>
                     <td>Jenkins</td>
-                    <td>+++</td>
+                    <td><img class="skillimage" src="{% link assets/images/three.png %}" alt="" /></td>
+                </tr>
+                <tr>
+                    <td>Jekyll</td>
+                    <td><img class="skillimage" src="{% link assets/images/four.png %}" alt="" /></td>
                 </tr>
             </tbody>
         </table>
