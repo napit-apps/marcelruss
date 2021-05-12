@@ -139,7 +139,7 @@ show_tile: false
                     <td><img class="skillimage" src="{% link assets/images/five.png %}" alt="" /></td>
                 </tr>
                 <tr>
-                    <td>Jira/Confulence</td>
+                    <td>Jira/Confluence</td>
                     <td><img class="skillimage" src="{% link assets/images/four.png %}" alt="" /></td>
                 </tr>
                 <tr>
@@ -185,9 +185,9 @@ show_tile: false
         <div class="33u"><span class="image fit"><img src="{% link assets/images/desktop.jpg %}" alt="" /></span></div>
     </div> 
 </div>-->
-    
-    
-	
+
+​    
+​	
 
 
 
