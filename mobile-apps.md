@@ -3,7 +3,8 @@ title: App Entwicklung
 layout: landing
 description: 'Mobil seit iOS 2'
 image: assets/images/app-header.jpg
-nav-menu: true
+nav-menu: false
+show_tile: false
 ---
 
 <!-- Main -->
