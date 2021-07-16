@@ -26,7 +26,7 @@ Lindachstraße 14 <br />
 
 <h2>Kontakt</h2>
 <p>
-Telefon: +49 1573 4399963 <br />
+Telefon: +49 7021 9560657 <br />
 E-Mail: sag.hallo@marcelruss.de </p>
 
 <h2>Umsatzsteuer-ID</h2>
