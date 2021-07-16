@@ -19,8 +19,8 @@ show_tile: false
 <div class="row">
 	<div class="4u 12u$(medium)">
 		<h3>App Entwicklung</h3>
-		<p>Ob nativ, hybrid oder webbasiert. Apps sind aus unserem Alltag nicht mehr wegzudenken. </p><!--Ich arbeite seit über 10 Jahren in diesem Feld. Mit fast 250.000 Downloads der eigenen Apps und zahlreichen zufriedenen Projekt-Partnern.</p>
-        <p><a href="mobile-apps.html" class="button small special">Mehr</a></p> -->
+		<p>Ob nativ, hybrid oder webbasiert. Apps sind aus unserem Alltag nicht mehr wegzudenken. Ich arbeite seit über 10 Jahren in diesem Feld. Mit fast 250.000 Downloads der eigenen Apps und zahlreichen zufriedenen Projekt-Partnern.</p>
+        <p><a href="mobile-apps.html" class="button small special">Mehr</a></p>
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>UI/UX Design</h3>
