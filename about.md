@@ -14,6 +14,8 @@ show_tile: false
 <p>Vor meinem Wechsel in die Fashion-Welt, war ich knapp sechs Jahre als IT Consultant in verschiednen Rollen für die automotive Branche im Raum Stuttgart tätig. Zu meinen Aufgaben gehörten die Beratung und Entwicklung, die (technische) Leitung der klassischen Projekte, sowie die Rollen Scrum Master und Product Owner in den agilen Produkten.</p>
 
 <p>Meine Abschluss zum Diplom Informatiker, im Studiengang Software-Engineering, habe ich 2012 an der Universität Stuttgart erlangt.</p>
+<a href="/downloads/Marcel_Russ_Lebenslauf.pdf" class="button small special" target="_blank">Lebenslauf.pdf</a>
+
 
 <h2>Kernkompetenzen</h2>
 <div class="row">
