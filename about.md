@@ -18,7 +18,7 @@ show_tile: false
 	    <li><a href="/downloads/Marcel_Russ_Lebenslauf.pdf" class="button small special" target="_blank">Lebenslauf (PDF)</a></li>
 	    <li><a href="/downloads/Marcel_Russ_CV.pdf" class="button small" target="_blank">Curriculum Vitae (PDF)</a></li>
         </ul>
-
+ 
 
 
 <h2>Kernkompetenzen</h2>
