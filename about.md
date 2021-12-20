@@ -15,7 +15,15 @@ show_tile: false
 
 <p>Vor meinem Wechsel in die Fashion-Welt, war ich knapp sechs Jahre als IT Consultant in verschiednen Rollen für die Automotive-Branche im Raum Stuttgart tätig. Zu meinen Aufgaben gehörten die Beratung und Entwicklung, die (technische) Leitung der klassischen Projekte, sowie die Rollen Scrum Master und Product Owner in den agilen Produkten.</p>
 
-<p>Meine Abschluss zum Diplom Informatiker, im Studiengang Software-Engineering, habe ich 2012 an der Universität Stuttgart erlangt.</p>
+<div class="inner">
+    <ul class="icons">
+        <li><a href="https://www.scrum.org/user/354382" class="icon" target="_blank"><img class="skillimage" src="{% link assets/images/psd1.svg %}" alt="" /> </a></li>
+        <li><a href="https://www.scrum.org/user/354382" class="icon" target="_blank"><img class="skillimage" src="{% link assets/images/psm1.svg %}" alt="" /> </a></li>
+        <li><a href="https://www.scrum.org/user/354382" class="icon" target="_blank"><img class="skillimage" src="{% link assets/images/pspo1.svg %}" alt="" /> </a></li>
+    </ul>
+</div>
+
+<p>Meine Abschluss zum <b>Diplom Informatiker</b>, im Studiengang <b>Software-Engineering</b>, habe ich 2012 an der Universität Stuttgart erlangt.</p>
 <ul class="actions">
 	    <li><a href="/downloads/Marcel_Russ_Lebenslauf.pdf" class="button small special" target="_blank">Lebenslauf (PDF)</a></li>
 	    <li><a href="/downloads/Marcel_Russ_CV.pdf" class="button small" target="_blank">Curriculum Vitae (PDF)</a></li>
