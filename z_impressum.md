@@ -29,11 +29,6 @@ Lindachstraße 14 <br />
 Telefon: +49 7021 9560657 <br />
 E-Mail: sag.hallo@marcelruss.de </p>
 
-<h2>Umsatzsteuer-ID</h2>
-<p>Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz: <br />
-DE337581675
-</p>
-
 <h2>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV</h2>
 <p>Marcel Russ</p>
 
