@@ -53,3 +53,6 @@ Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konk
 <br />
 <br />
 Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.</p>
+
+<h2>Homepage Design</h2>
+<p>Diese Homepage wurde auf Basis des Jekyll Templates "Forty" von <a href="https://html5up.net/" target="_blank">HTML5 UP</a> erstellt.</p>

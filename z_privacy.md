@@ -48,7 +48,7 @@ Marcel Russ <br />
 Lindachstraße 14 <br />
 73230 Kirchheim unter Teck <br />
 <br />
-Telefon: +49 7021 9560657 <br />
+
 E-Mail: sag.hallo@marcelruss.de<br />
 <br />
 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z. B. Namen, E-Mail-Adressen o. Ä.) entscheidet. </p>
