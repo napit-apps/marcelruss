@@ -13,8 +13,6 @@ show_tile: false
 
 <p>Zuvor war ich dreieinhalb Jahre in der Rolle <i>Team Leader Web & Mobile Application</i> bei <a href="https://hugoboss.com" target="_blank">HUGO BOSS</a> tätig. Neben der fachlichen und disziplinarischen Führung des Entwickler-Teams, verantwortete ich dort die Themen rund um UI/UX und war als Berater für agile Vorgehensmodelle (z.B. Scrum) im Unternehmen tätig.</p>
 
-<blockquote>Führung bedeutet für mich, mein Team dazu zu bewegen, ein gemeinsames Ziel zu erreichen. Dafür schaffe ich eine positive Atmosphäre, die eine <b>eigenverantwortliche</b> und <b>selbständige</b> Arbeitsweise fördert, wobei der Mensch und die Kommunikation im Mittelpunkt stehen. Führung ist ein ausgeglichenes Zusammenspiel aus Managing, Leading und Coaching.</blockquote>
-
 <p>Vor meinem Wechsel in die Fashion-Welt, war ich knapp sechs Jahre als IT Consultant in verschiednen Rollen für die Automotive-Branche im Raum Stuttgart tätig. Zu meinen Aufgaben gehörten die Beratung und Entwicklung, die (technische) Leitung der klassischen Projekte, sowie die Rollen Scrum Master und Product Owner in den agilen Produkten.</p>
 
 <p>Meine Abschluss zum <b>Diplom Informatiker</b>, im Studiengang <b>Software-Engineering</b>, habe ich 2012 an der Universität Stuttgart erlangt.</p>

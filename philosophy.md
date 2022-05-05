@@ -76,17 +76,36 @@ nav-menu: true
 <section id="four">
 	<div class="inner">	
 	<header class="major">
-		<h2>Ohne Spaß ist das Leben nicht lustig!</h2>
+		<h2>Führungsverständnis</h2>
 	</header>
 	<div class="row">
 		<div class="4u 12u$(small)">
-        <a href="https://de.wikipedia.org/wiki/42_(Antwort)" class="image" target="_blank">
-        <img src="{% link assets/images/fun.png %}" alt="" data-position="25% 25%" /></a>
+        <a href="https://fundraisingleadership.org/integrated-leader-manager-coach-model/" class="image" target="_blank">
+        <img src="{% link assets/images/managing-leading-coaching.jp2 %}" alt="" data-position="25% 25%" /></a>
 		</div>
+		<div class="8u 12u$(small)">
+		<p>Führung bedeutet für mich, mein Team dazu zu bewegen, ein gemeinsames Ziel zu erreichen.
+		<br /> Dafür schaffe ich eine positive Atmosphäre, die eine <b>eigenverantwortliche</b> und <b>selbständige</b> Arbeitsweise fördert, wobei der Mensch und die Kommunikation im Mittelpunkt stehen. 
+		<br />Führung ist ein ausgeglichenes Zusammenspiel aus Managing, Leading und Coaching.</p>
+		</div>
+	</div>
+    </div>
+</section>
+
+<section id="five">
+	<div class="inner">	
+	<header class="major">
+		<h2>Ohne Spaß ist das Leben nicht lustig!</h2>
+	</header>
+	<div class="row">
 		<div class="8u 12u$(small)">
 		<p>Mein Sinn des Lebens ist, es in vollen Zügen zu genießen.
         <br >Ich möchte meine Zeit mit Menschen und Tätigkeiten füllen, die mich bereichern und (mit) mir Spaß machen. 
         <br />Es ist toll, mit professionellen Partnern komplizierte Aufgaben zu lösen. Und dabei etwas zu erreichen, das anfangs unmöglich erscheint und am Ende einen echten Mehrwert generiert - das ist meine Leidenschaft!</p>
+		</div>
+		<div class="4u 12u$(small)">
+        <a href="https://de.wikipedia.org/wiki/42_(Antwort)" class="image" target="_blank">
+        <img src="{% link assets/images/fun.png %}" alt="" data-position="25% 25%" /></a>
 		</div>
 	</div>
     </div>
