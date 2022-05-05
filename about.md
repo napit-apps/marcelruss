@@ -17,23 +17,16 @@ show_tile: false
 
 <p>Vor meinem Wechsel in die Fashion-Welt, war ich knapp sechs Jahre als IT Consultant in verschiednen Rollen für die Automotive-Branche im Raum Stuttgart tätig. Zu meinen Aufgaben gehörten die Beratung und Entwicklung, die (technische) Leitung der klassischen Projekte, sowie die Rollen Scrum Master und Product Owner in den agilen Produkten.</p>
 
-<div class="inner">
-    <ul class="icons">
-        <li><a href="https://www.scrum.org/user/354382" class="icon" target="_blank"><img class="skillimage" src="{% link assets/images/psd1.svg %}" alt="" /> </a></li>
-        <li><a href="https://www.scrum.org/user/354382" class="icon" target="_blank"><img class="skillimage" src="{% link assets/images/psm1.svg %}" alt="" /> </a></li>
-        <li><a href="https://www.scrum.org/user/354382" class="icon" target="_blank"><img class="skillimage" src="{% link assets/images/pspo1.svg %}" alt="" /> </a></li>
-    </ul>
-</div>
-
 <p>Meine Abschluss zum <b>Diplom Informatiker</b>, im Studiengang <b>Software-Engineering</b>, habe ich 2012 an der Universität Stuttgart erlangt.</p>
-<ul class="actions">
-	    <li><a href="/downloads/Marcel_Russ_Lebenslauf.pdf" class="button small special" target="_blank">Lebenslauf (PDF)</a></li>
-	    <li><a href="/downloads/Marcel_Russ_CV.pdf" class="button small" target="_blank">Curriculum Vitae (PDF)</a></li>
-        </ul>
 
+<ul class="actions">
+    <li><a href="/downloads/Marcel_Russ_Lebenslauf.pdf" class="button small special" target="_blank">Lebenslauf (PDF)</a></li>
+    <li><a href="/downloads/Marcel_Russ_CV.pdf" class="button small" target="_blank">Curriculum Vitae (PDF)</a></li>
+</ul>
 
 
 <h2>Kernkompetenzen</h2>
+
 <div class="row">
 	<div class="4u 12u$(medium)">
 		<h3>App Entwicklung</h3>
@@ -50,7 +43,7 @@ show_tile: false
 		<p><b>Ausprobieren</b>, <b>lernen</b>, <b>weiterentwickeln</b>. Das sind die Aufgaben, um in kleinen Schritten kontinuierlich und kundenzentriert vorwärtszukommen. Immer mit dem Ziel einen dauerhaften Mehrwert zu generieren.</p>
         <ul class="actions">
 	    <li><a href="philosophy.html" class="button small special">Mehr</a></li>
-	    <li><a href="https://www.scrum.org/user/354382" class="button small" target="_blank">Scrum.org</a></li>
+	    <li><a href="https://www.scrum.org/user/354382" class="button small" target="_blank">Zertifikate</a></li>
         </ul>
 	</div>
 </div>
@@ -182,6 +175,14 @@ show_tile: false
                 </tr>
             </tbody>
         </table>
+        <h3>Scrum.org Zertifikate</h3>
+        <div class="inner">
+        <ul class="icons">
+            <li><a href="https://www.scrum.org/user/354382" class="icon" target="_blank"><img class="skillimage" src="{% link assets/images/psd1.svg %}" alt="" /> </a></li>
+            <li><a href="https://www.scrum.org/user/354382" class="icon" target="_blank"><img class="skillimage" src="{% link assets/images/psm1.svg %}" alt="" /> </a></li>
+            <li><a href="https://www.scrum.org/user/354382" class="icon" target="_blank"><img class="skillimage" src="{% link assets/images/pspo1.svg %}" alt="" /> </a></li>
+        </ul>
+</div>
         </div>
 	</div>
 </div>
