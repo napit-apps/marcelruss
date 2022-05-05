@@ -9,7 +9,9 @@ show_tile: false
 
 
 <h2>{{ page.description }}</h2>
-<p>Spezialisiert auf die Entwicklung von mobilen Apps, arbeite ich seit Sommer 2018 in der Rolle <i>Team Leader Web & Mobile Application</i> bei <a href="https://hugoboss.com" target="_blank">HUGO BOSS</a>. Neben der fachlichen und disziplinarischen Führung des Entwickler-Teams, verantworte ich dort die Themen rund um UI/UX und bin als Berater für agile Vorgehensmodelle (z.B. Scrum) im Unternehmen tätig.</p>
+<p>Ursprünglich spezialisiert auf die Entwicklung von mobilen Apps und agilen Methoden, arbeite ich seit dem Frühjahr 2021 als Manager für <i>Enterprise Transformation Delivery</i> bei <a href="https://exxeta.com" target="_blank">Exxeta</a>. Dabei fokusiere ich mich auf den Aufbau eines neuen Teams, welches unsere Kunden bei der nachhaltigen und bedarfsgerechten Modernisierung ihrer Applikationslandschaft unterstützen wird.</p>
+
+<p>Zuvor war ich dreieinhalb Jahre in der Rolle <i>Team Leader Web & Mobile Application</i> bei <a href="https://hugoboss.com" target="_blank">HUGO BOSS</a> tätig. Neben der fachlichen und disziplinarischen Führung des Entwickler-Teams, verantwortete ich dort die Themen rund um UI/UX und war als Berater für agile Vorgehensmodelle (z.B. Scrum) im Unternehmen tätig.</p>
 
 <blockquote>Führung bedeutet für mich, mein Team dazu zu bewegen, ein gemeinsames Ziel zu erreichen. Dafür schaffe ich eine positive Atmosphäre, die eine <b>eigenverantwortliche</b> und <b>selbständige</b> Arbeitsweise fördert, wobei der Mensch und die Kommunikation im Mittelpunkt stehen. Führung ist ein ausgeglichenes Zusammenspiel aus Managing, Leading und Coaching.</blockquote>
 
@@ -100,7 +102,7 @@ show_tile: false
                     <td><img class="skillimage" src="{% link assets/images/four.png %}" alt="" /></td>
                 </tr>
                 <tr>
-                    <td>Java</td>
+                    <td>Python</td>
                     <td><img class="skillimage" src="{% link assets/images/three.png %}" alt="" /></td>
                 </tr>
                 <tr>
@@ -144,7 +146,7 @@ show_tile: false
                 </tr>
                 <tr>
                     <td>Visual Studio Code</td>
-                    <td><img class="skillimage" src="{% link assets/images/three.png %}" alt="" /></td>
+                    <td><img class="skillimage" src="{% link assets/images/four.png %}" alt="" /></td>
                 </tr>
                 <tr>
                     <td>Balsamiq Mockup</td>
