@@ -9,7 +9,7 @@ show_tile: false
 
 
 <h2>{{ page.description }}</h2>
-<p>Ursprünglich spezialisiert auf die Entwicklung von mobilen Apps und agilen Methoden, arbeite ich seit dem Frühjahr 2021 als Manager für <i>Enterprise Transformation Delivery</i> bei <a href="https://exxeta.com" target="_blank">Exxeta</a>. Dabei fokusiere ich mich auf den Aufbau eines neuen Teams, welches unsere Kunden bei der nachhaltigen und bedarfsgerechten Modernisierung ihrer Applikationslandschaft unterstützen wird.</p>
+<p>Spezialisiert auf die Entwicklung von mobilen Apps und agilen Methoden, arbeite ich seit dem Frühjahr 2022 als Manager für <i>Enterprise Transformation Delivery</i> bei <a href="https://exxeta.com" target="_blank">Exxeta</a>. Dabei fokusiere ich mich auf den Aufbau eines neuen Teams, welches unsere Kunden bei der nachhaltigen und bedarfsgerechten Modernisierung ihrer Applikationslandschaft unterstützen wird.</p>
 
 <p>Zuvor war ich dreieinhalb Jahre in der Rolle <i>Team Leader Web & Mobile Application</i> bei <a href="https://hugoboss.com" target="_blank">HUGO BOSS</a> tätig. Neben der fachlichen und disziplinarischen Führung des Entwickler-Teams, verantwortete ich dort die Themen rund um UI/UX und war als Berater für agile Vorgehensmodelle (z.B. Scrum) im Unternehmen tätig.</p>
 
