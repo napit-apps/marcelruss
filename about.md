@@ -41,7 +41,8 @@ show_tile: false
 		<p><b>Ausprobieren</b>, <b>lernen</b>, <b>weiterentwickeln</b>. Das sind die Aufgaben, um in kleinen Schritten kontinuierlich und kundenzentriert vorwärtszukommen. Immer mit dem Ziel einen dauerhaften Mehrwert zu generieren.</p>
         <ul class="actions">
 	    <li><a href="philosophy.html" class="button small special">Mehr</a></li>
-	    <li><a href="https://www.scrum.org/user/354382" class="button small" target="_blank">Zertifikate</a></li>
+	    <li><a href="https://www.scrum.org/user/354382" class="button small" target="_blank">Scrum</a></li>
+        <li><a href="https://www.credly.com/badges/5e28e351-fbc9-4ac2-838f-5ef1bbc90989/public_url" class="button small" target="_blank">SAFe</a></li>
         </ul>
 	</div>
 </div>
@@ -173,12 +174,13 @@ show_tile: false
                 </tr>
             </tbody>
         </table>
-        <h3>Scrum.org Zertifikate</h3>
+        <h3>Agile Zertifikate</h3>
         <div class="inner">
         <ul class="icons">
             <li><a href="https://www.scrum.org/user/354382" class="icon" target="_blank"><img class="skillimage" src="{% link assets/images/psd1.svg %}" alt="" /> </a></li>
             <li><a href="https://www.scrum.org/user/354382" class="icon" target="_blank"><img class="skillimage" src="{% link assets/images/psm1.svg %}" alt="" /> </a></li>
             <li><a href="https://www.scrum.org/user/354382" class="icon" target="_blank"><img class="skillimage" src="{% link assets/images/pspo1.svg %}" alt="" /> </a></li>
+            <li><a href="https://www.credly.com/badges/5e28e351-fbc9-4ac2-838f-5ef1bbc90989/public_url" class="icon" target="_blank"><img class="skillimage" src="{% link assets/images/SAFe_SA.png %}" alt="" /> </a></li>
         </ul>
 </div>
         </div>
