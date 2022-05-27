@@ -37,7 +37,7 @@ show_tile: false
         <!--<p><a href="mobile-apps.html" class="button small">Mehr</a></p> -->
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3>Agilität & Scrum</h3>
+		<h3>Agilität (Scrum & SAFe)</h3>
 		<p><b>Ausprobieren</b>, <b>lernen</b>, <b>weiterentwickeln</b>. Das sind die Aufgaben, um in kleinen Schritten kontinuierlich und kundenzentriert vorwärtszukommen. Immer mit dem Ziel einen dauerhaften Mehrwert zu generieren.</p>
         <ul class="actions">
 	    <li><a href="philosophy.html" class="button small special">Mehr</a></li>
