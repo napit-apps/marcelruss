@@ -63,13 +63,15 @@ nav-menu: true
 		<div class="8u 12u$(small)">
         <p>Qualität und die darauß resultierende Nachhaltigkeit spielen für mich eine zentrale Rolle. Wir sind die Generation, die mit durchdachten und intelligienten Ideen für den Erhalt unserer Erde kämpfen muss.</p>
         <p>Schlanke Prozesse und schlaue Werkzeuge können die bisher eingesetzen Ressourcen teilweise dramatisch reduzieren und so zu einer dauerhaften Verbesserung beitragen - fokusiert auf den <a href="https://de.wikipedia.org/wiki/Return_on_Investment" target="_bank">Return On Invest</a>.</p>    
-		<blockquote>"Wer billig kauft, kauft zweimal!" <br />(M)eine schwäbische Oma.</blockquote>
+		<blockquote>"Wer billig kauft, kauft zweimal!"</blockquote>
 		</div>
 		<div class="4u 12u$(small)">
-		<img src="{% link assets/images/ph_quality.png %}" alt="" data-position="25% 25%" />
-            <!--<p class="small">Agile Manifest</p> -->
+		<div id="wcb" class="carbonbadge wcb-d"></div>
+		<script src="https://unpkg.com/website-carbon-badges@1.1.3/b.min.js" defer></script>
+		<!-- <img src="{% link assets/images/ph_quality.png %}" alt="" data-position="25% 25%" /> -->
 		</div>
 	</div>
+	
     </div>
 </section>
 
