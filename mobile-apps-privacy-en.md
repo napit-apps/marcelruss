@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacy notice for mobile Apps
+title: Privacy policy for mobile Apps
 description: null 
 image: null
 nav-menu: false
@@ -14,11 +14,11 @@ show_tile: false
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Privacy notice for mobile Apps</h1>
+			<h1>Privacy policy for mobile Apps</h1>
 		</header>
 
 <p><u>Last updated December 02, 2022</u></p>
-<p>This privacy notice for mobile apps provided by Marcel Russ (aka "Company", " we", "us", or "our" ), describes how and why we might collect, store, use, and/or share ("process") your information when you use our mobile apps ( aka "Services" ), such as when you:
+<p>This privacy policy for mobile apps provided by Marcel Russ (aka "Company", " we", "us", or "our" ), describes how and why we might collect, store, use, and/or share ("process") your information when you use our mobile apps ( aka "Services" ), such as when you:
 <ul>
 <li>Download and use our mobile application ( myWork) , or any other application of ours that links to this privacy notice.</li>
 <li>Engage with us in other related ways, including any sales, marketing, or events</li>
@@ -58,7 +58,7 @@ Questions or concerns? Reading this privacy notice will help you understand your
 <p>We collect personal information that you voluntarily provide to us when you express an interest in obtaining information about us or our products and Services, when you participate in activities on the Services, or otherwise when you contact us.</p>
 <p><b>Sensitive Information:</b> We do not process sensitive information.</p>
 <p><b>Payment Data:</b> We may collect data necessary to process your payment if you make purchases, such as your payment instrument number, and the security code associated with your payment instrument. All payment data is stored by Apple Inc. . You may find their privacy notice link(s) here: <a href="https://www.apple.com/legal/privacy/en-ww/">https://www.apple.com/legal/privacy/en-ww/</a>.</p>
-<p><b>Application Data:</b> If you use our application(s), we also may collect the following information if you choose to provide us with access or permission:
+<p><b>Application Data:</b> .If you use our application(s), we also may collect the following information if you choose to provide us with access or permission:
 <ul>
 <li><i>Geolocation Information:</i> We may request access or permission to track location-based information from your mobile device, either continuously or while you are using our mobile application(s), to provide certain location-based services. If you wish to change our access or permissions, you may do so in your device's settings.</li>
 <li><i>Push Notifications</i> We may request to send you push notifications regarding your account or certain features of the application(s). If you wish to opt out from receiving these types of communications, you may turn them off in your device's settings.</li>
