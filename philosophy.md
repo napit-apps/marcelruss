@@ -27,6 +27,9 @@ nav-menu: true
             <!--<p class="small">Agile Manifest</p> -->
 		</div>
 	</div>
+	<div class="box">
+		<p><b>Anstatt zu versuchen die Zukunft besser vorherzusagen, sollten wir unsere Fähigkeit verbessern, uns schnell und effektiv an neue Informationen anzupassen.</b></p>   
+	</div>
     </div>
 </section>
 
