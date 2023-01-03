@@ -9,7 +9,7 @@ show_tile: false
 
 
 <h2>{{ page.description }}</h2>
-<p>Spezialisiert auf die Entwicklung von mobilen Apps und agilen Methoden, arbeite ich seit dem Frühjahr 2022 als Manager der <i>Enterprise Modernization Delivery</i> bei <a href="https://exxeta.com" target="_blank">Exxeta</a>. Dabei fokusiere ich mich auf den Aufbau des neuen Teams, welches unsere Kunden bei der nachhaltigen und bedarfsgerechten Modernisierung ihrer Applikationslandschaft unterstützen wird.</p>
+<p>Spezialisiert auf die Entwicklung von <b>mobilen Apps</b> und <b>agilen Methoden</b>, habe ich im Frühjahr 2022 einen neuen Weg als Manager in der <i>Enterprise Modernization</i> bei <a href="https://exxeta.com" target="_blank">Exxeta</a> eingeschlagen. Dabei fokusiere ich mich (gemeinsam mit meinem Team) auf das noch relativ junge Thema <a href="https://greensoftware.foundation/articles/what-is-green-software" target="_blank"><b>Nachhaltige Softwareentwicklung</b></a> und unseren Beitrag als Entwickler für eine grüne IT.</p>
 
 <p>Zuvor war ich dreieinhalb Jahre in der Rolle <i>Team Leader Web & Mobile Application</i> bei <a href="https://hugoboss.com" target="_blank">HUGO BOSS</a> tätig. Neben der fachlichen und disziplinarischen Führung des Entwickler-Teams, verantwortete ich dort die Themen rund um UI/UX und war als Berater für agile Vorgehensmodelle (z.B. Scrum) im Unternehmen tätig.</p>
 
@@ -174,13 +174,14 @@ show_tile: false
                 </tr>
             </tbody>
         </table>
-        <h3>Agile Zertifikate</h3>
+        <h3>Zertifikate</h3>
         <div class="inner">
         <ul class="icons">
             <li><a href="https://www.scrum.org/user/354382" class="icon" target="_blank"><img class="skillimage" src="{% link assets/images/psd1.svg %}" alt="" /> </a></li>
             <li><a href="https://www.scrum.org/user/354382" class="icon" target="_blank"><img class="skillimage" src="{% link assets/images/psm1.svg %}" alt="" /> </a></li>
             <li><a href="https://www.scrum.org/user/354382" class="icon" target="_blank"><img class="skillimage" src="{% link assets/images/pspo1.svg %}" alt="" /> </a></li>
             <li><a href="https://www.credly.com/badges/5e28e351-fbc9-4ac2-838f-5ef1bbc90989/public_url" class="icon" target="_blank"><img class="skillimage" src="{% link assets/images/SAFe_SA.png %}" alt="" /> </a></li>
+            <li><a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/0241ce4d-6018-4891-bd40-a23ee2c9acaf-marcel-russ-ca32e563-51ea-4447-8f69-d396ebc7246d-certificate.pdf" class="icon" target="_blank"><img class="skillimage" src="{% link assets/images/linux.svg %}" alt="" /> </a></li>
         </ul>
 </div>
         </div>
