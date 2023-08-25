@@ -50,7 +50,7 @@ La lecture de cette déclaration de confidentialité vous aidera à comprendre v
 
 <h5>Comment exercer vos droits ? </h5>
 La loi sur la protection des données est en vigueur depuis le 1er janvier 2006.
-<p>Le moyen le plus simple d'exercer vos droits est de remplir notre formulaire de demande pour les personnes concernées, disponible ici : <a href="https://marcelruss.de/#contact" >https://marcelruss.de/#contact</a>, ou de nous contacter par e-mail et sag.hallo@marcelruss.de. Nous examinerons et traiterons chaque demande conformément aux lois applicables en matière de protection des données.</p>
+<p>Le moyen le plus simple d'exercer vos droits est de remplir notre formulaire de demande pour les personnes concernées, disponible ici : <a href="https://marcelruss.de/#contact" >https://marcelruss.de/#contact,</a> ou de nous contacter par e-mail et sag.hallo@marcelruss.de. Nous examinerons et traiterons chaque demande conformément aux lois applicables en matière de protection des données.</p>
 
 <h2>1. quelles informations recueillons-nous?</h2>
 
@@ -68,7 +68,7 @@ La loi sur la protection des données est en vigueur depuis le 1er janvier 2006.
 
 <p>Toutes les informations personnelles que vous nous fournissez doivent être vraies, complètes et exactes, et vous devez nous informer de tout changement concernant ces informations personnelles.</p>
 
-<h2>2 Comment traitons-nous vos informations</h2> ?
+<h2>2. Comment traitons-nous vos informations ?</h2>
 <p><b>En bref :</b> Nous traitons vos informations afin de fournir, d'améliorer et de gérer nos services, de communiquer avec vous, de prévenir la sécurité et la fraude et de nous conformer aux lois. Nous pouvons également traiter vos données à d'autres fins avec votre consentement.</p>
 <p>Nous traitons vos données à caractère personnel pour diverses raisons, en fonction de la manière dont vous interagissez avec nos services, notamment :
 <ul>
@@ -124,7 +124,7 @@ La loi sur la protection des données est en vigueur depuis le 1er janvier 2006.
 <p>Nous avons mis en place des mesures de sécurité techniques et organisationnelles raisonnables et appropriées pour protéger la sécurité de toutes les données à caractère personnel que nous traitons. Cependant, malgré nos garanties et nos efforts pour protéger vos données, aucune transmission électronique sur Internet ou technologie de stockage d'informations ne peut être sûre à 100 %, de sorte que nous ne pouvons pas promettre ou garantir que des pirates informatiques, des cybercriminels ou d'autres tiers non autorisés ne seront pas en mesure de contourner notre sécurité et de collecter, d'accéder, de voler ou de modifier vos informations de manière inappropriée. Bien que nous fassions de notre mieux pour protéger vos données personnelles, la transmission de données personnelles vers et depuis nos services se fait à vos propres risques. Vous ne devez accéder aux Services que dans un environnement sécurisé.</p>
 
 
-<h2>7 Quels sont vos droits en matière de protection des données ? </h2>
+<h2>7. Quels sont vos droits en matière de protection des données ? </h2>
 <p><b>En bref:</b> Dans certaines régions, comme l'Espace économique européen (EEE), le Royaume-Uni (RU) et le Canada, vous avez des droits qui vous permettent de mieux accéder à vos données personnelles et de mieux les contrôler. Vous pouvez vérifier, modifier ou résilier votre compte à tout moment.</p>
 <p>Dans certaines régions (comme l'EEE, le Royaume-Uni et le Canada), vous avez certains droits en vertu des lois applicables en matière de protection des données. Cela peut inclure le droit (i) de demander l'accès et d'obtenir une copie de vos données personnelles, (ii) de demander la rectification ou l'effacement ; (iii) de restreindre le traitement de vos données personnelles ; et (iv) le cas échéant, la portabilité des données. Dans certaines circonstances, vous pouvez également avoir le droit de vous opposer au traitement de vos données à caractère personnel. Vous pouvez faire une telle demande en nous contactant via les coordonnées indiquées dans la section "Comment nous contacter au sujet du présent avis" ci-dessous.</p>
 
