@@ -33,26 +33,26 @@ La lecture de cette déclaration de confidentialité vous aidera à comprendre v
 <h5>Traitons-nous des données à caractère personnel sensibles?</h5>
 <p>Nous ne traitons pas de données personnelles sensibles.</p>
 
-<h5>Recevons-nous des informations de tiers ?</h5>
+<h5>Recevons-nous des informations de tiers?</h5>
 <p> Nous ne recevons aucune information de tiers, à l'exception de la preuve de paiement par Apple si vous avez acheté un service supplémentaire dans l'application.</p>
 
-<h5>Comment traitons-nous vos informations ?</h5>
+<h5>Comment traitons-nous vos informations?</h5>
 <p>Nous traitons vos informations pour fournir, améliorer et gérer nos services, pour communiquer avec vous, pour la sécurité et la prévention des fraudes et pour nous conformer à la loi. Nous pouvons également traiter vos données à d'autres fins avec votre consentement. Nous ne traitons vos données que si nous avons une raison légale valable de le faire. Pour en savoir plus, consultez la section 2.</p>
 
 <h5>Dans quelles situations et avec quelles parties partageons-nous les informations personnelles?</h5>
 <p>Nous pouvons partager des informations dans certaines situations et avec certains tiers. Pour en savoir plus, consultez la section 3.</p>
 
-<h5>Comment conservons-nous vos informations en toute sécurité ? </h5>La protection de vos données personnelles est une priorité pour nous.
+<h5>Comment conservons-nous vos informations en toute sécurité? </h5>La protection de vos données personnelles est une priorité pour nous.
 <p>Nous disposons de processus et de procédures organisationnels et techniques pour protéger vos informations personnelles. Toutefois, il n'est pas possible de garantir que la transmission électronique sur Internet ou la technologie de stockage des informations est sûre à 100 %, de sorte que nous ne pouvons pas promettre ou garantir que les pirates informatiques, les cybercriminels ou d'autres tiers non autorisés ne seront pas en mesure de vaincre notre sécurité et de collecter, d'accéder, de voler ou de modifier vos informations de manière inappropriée. Pour en savoir plus, consultez la section 4.</p>
 
 <h5>Quels sont vos droits?</h5>
 <p>Selon l'endroit où vous vous trouvez géographiquement, la loi sur la protection des données applicable peut signifier que vous avez certains droits en ce qui concerne vos données personnelles. Pour en savoir plus, consultez la section 7.</p>
 
-<h5>Comment exercer vos droits ? </h5>
+<h5>Comment exercer vos droits? </h5>
 La loi sur la protection des données est en vigueur depuis le 1er janvier 2006.
 <p>Le moyen le plus simple d'exercer vos droits est de remplir notre formulaire de demande pour les personnes concernées, disponible ici : <a href="https://marcelruss.de/#contact" >https://marcelruss.de/#contact,</a> ou de nous contacter par e-mail et sag.hallo@marcelruss.de. Nous examinerons et traiterons chaque demande conformément aux lois applicables en matière de protection des données.</p>
 
-<h2>1. quelles informations recueillons-nous?</h2>
+<h2>1. Quelles informations recueillons-nous?</h2>
 
 <h4>Les informations personnelles que vous nous divulguez.</h4>
 <p><b>En bref :</b> Nous collectons les informations personnelles que vous nous fournissez.</p>
@@ -68,14 +68,14 @@ La loi sur la protection des données est en vigueur depuis le 1er janvier 2006.
 
 <p>Toutes les informations personnelles que vous nous fournissez doivent être vraies, complètes et exactes, et vous devez nous informer de tout changement concernant ces informations personnelles.</p>
 
-<h2>2. Comment traitons-nous vos informations ?</h2>
+<h2>2. Comment traitons-nous vos informations?</h2>
 <p><b>En bref :</b> Nous traitons vos informations afin de fournir, d'améliorer et de gérer nos services, de communiquer avec vous, de prévenir la sécurité et la fraude et de nous conformer aux lois. Nous pouvons également traiter vos données à d'autres fins avec votre consentement.</p>
 <p>Nous traitons vos données à caractère personnel pour diverses raisons, en fonction de la manière dont vous interagissez avec nos services, notamment :
 <ul>
 <li>Pour sauver ou protéger l'intérêt vital d'une personne. Nous pouvons traiter vos données, si nécessaire, pour sauver ou protéger l'intérêt vital d'une personne, par exemple pour prévenir des dommages.</li>
 </ul>
 
-<h2>3. sur quelle base juridique nous appuyons nous pour le traitement des données?</h2>
+<h2>3. Sur quelle base juridique nous appuyons nous pour le traitement des données?</h2>
 <p><b>En bref:</b> Nous ne traitons vos données à caractère personnel que lorsque nous estimons que cela est nécessaire et que nous avons une raison légale valable (c'est-à-dire une base juridique) de le faire en vertu de la loi applicable, comme avec votre consentement, de respecter la loi, de vous fournir des services pour conclure ou exécuter nos obligations contractuelles, de protéger vos droits ou de servir nos intérêts commerciaux légitimes.</p>
 
 <p><u>Si vous vous trouvez dans l'UE ou au Royaume-Uni, cette section s'applique à vous.</u></p>
@@ -106,7 +106,7 @@ La loi sur la protection des données est en vigueur depuis le 1er janvier 2006.
 </ul>
 </p>
 
-<h2>4. quand et avec qui partageons-nous vos données personnelles?</h2>
+<h2>4. Quand et avec qui partageons-nous vos données personnelles?</h2>
 <p><b>En bref :</b> Nous pouvons partager des informations dans certaines situations décrites dans cette section et/ou avec les tiers suivants.</p>
 <p>Il se peut que nous devions partager vos informations personnelles dans les situations suivantes :
 <ul>
@@ -114,45 +114,45 @@ La loi sur la protection des données est en vigueur depuis le 1er janvier 2006.
 </ul>
 </p>
 
-<h2>5. combien de temps conservons-nous vos informations personnelles?</h2>
+<h2>5. Combien de temps conservons-nous vos informations personnelles?</h2>
 <p><b>En bref :</b> Nous conserverons vos données personnelles aussi longtemps que nécessaire pour atteindre les objectifs décrits dans la présente déclaration de confidentialité, sauf si la loi en dispose autrement.</p>
 <p>Nous ne conservons vos données à caractère personnel qu'aussi longtemps que nécessaire aux fins décrites dans la présente déclaration de confidentialité, à moins qu'une période de conservation plus longue ne soit requise ou autorisée par la loi (par exemple, pour les impôts, la comptabilité ou d'autres exigences légales).</p>
 <p>Si nous n'avons pas de besoin commercial légitime en cours de traitement de vos données personnelles, nous supprimerons ou rendrons anonymes ces informations ou, si cela n'est pas possible (par exemple, parce que vos données personnelles ont été stockées dans des archives de sauvegarde), nous conserverons vos données personnelles en toute sécurité et les isolerons de tout autre traitement jusqu'à ce qu'une suppression soit possible.</p>
 
-<h2>6. comment conservons-nous vos informations en toute sécurité ? .</h2>
+<h2>6. Comment conservons-nous vos informations en toute sécurité?</h2>
 <p><b>En bref :</b> Notre objectif est de protéger vos données personnelles grâce à un système de mesures de sécurité organisationnelles et techniques.</p>
 <p>Nous avons mis en place des mesures de sécurité techniques et organisationnelles raisonnables et appropriées pour protéger la sécurité de toutes les données à caractère personnel que nous traitons. Cependant, malgré nos garanties et nos efforts pour protéger vos données, aucune transmission électronique sur Internet ou technologie de stockage d'informations ne peut être sûre à 100 %, de sorte que nous ne pouvons pas promettre ou garantir que des pirates informatiques, des cybercriminels ou d'autres tiers non autorisés ne seront pas en mesure de contourner notre sécurité et de collecter, d'accéder, de voler ou de modifier vos informations de manière inappropriée. Bien que nous fassions de notre mieux pour protéger vos données personnelles, la transmission de données personnelles vers et depuis nos services se fait à vos propres risques. Vous ne devez accéder aux Services que dans un environnement sécurisé.</p>
 
 
-<h2>7. Quels sont vos droits en matière de protection des données ? </h2>
+<h2>7. Quels sont vos droits en matière de protection des données? </h2>
 <p><b>En bref:</b> Dans certaines régions, comme l'Espace économique européen (EEE), le Royaume-Uni (RU) et le Canada, vous avez des droits qui vous permettent de mieux accéder à vos données personnelles et de mieux les contrôler. Vous pouvez vérifier, modifier ou résilier votre compte à tout moment.</p>
-<p>Dans certaines régions (comme l'EEE, le Royaume-Uni et le Canada), vous avez certains droits en vertu des lois applicables en matière de protection des données. Cela peut inclure le droit (i) de demander l'accès et d'obtenir une copie de vos données personnelles, (ii) de demander la rectification ou l'effacement ; (iii) de restreindre le traitement de vos données personnelles ; et (iv) le cas échéant, la portabilité des données. Dans certaines circonstances, vous pouvez également avoir le droit de vous opposer au traitement de vos données à caractère personnel. Vous pouvez faire une telle demande en nous contactant via les coordonnées indiquées dans la section "Comment nous contacter au sujet du présent avis" ci-dessous.</p>
+<p>Dans certaines régions (comme l'EEE, le Royaume-Uni et le Canada), vous avez certains droits en vertu des lois applicables en matière de protection des données. Cela peut inclure le droit (i) de demander l'accès et d'obtenir une copie de vos données personnelles, (ii) de demander la rectification ou l'effacement; (iii) de restreindre le traitement de vos données personnelles; et (iv) le cas échéant, la portabilité des données. Dans certaines circonstances, vous pouvez également avoir le droit de vous opposer au traitement de vos données à caractère personnel. Vous pouvez faire une telle demande en nous contactant via les coordonnées indiquées dans la section "Comment nous contacter au sujet du présent avis" ci-dessous.</p>
 
 <p>Nous examinerons et traiterons chaque demande conformément aux lois applicables en matière de protection des données.
 Si vous êtes situé dans l'EEE ou au Royaume-Uni et que vous pensez que nous traitons vos données personnelles de manière illégale, vous avez également le droit de déposer une plainte auprès de votre autorité locale de contrôle de la protection des données. Vous trouverez ses coordonnées ici : <a href="https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm.">https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm.</a>.</p>
 
 <p>Si vous vous trouvez en Suisse, vous trouverez les coordonnées des autorités de protection des données ici : <a href="https://www.edoeb.admin.ch/edoeb/en/home.html.">https://www.edoeb.admin.ch/edoeb/en/home.html.</a></p>
 
-<p>Révocation de votre consentement : Si nous nous appuyons sur votre consentement pour traiter vos données à caractère personnel, qui peut être un consentement exprès et/ou tacite selon la loi applicable, vous avez le droit de retirer votre consentement à tout moment. Vous pouvez retirer votre consentement à tout moment en nous contactant via les coordonnées indiquées dans la section "Comment nous contacter au sujet du présent avis ?" ci-dessous.</p>
+<p>Révocation de votre consentement : Si nous nous appuyons sur votre consentement pour traiter vos données à caractère personnel, qui peut être un consentement exprès et/ou tacite selon la loi applicable, vous avez le droit de retirer votre consentement à tout moment. Vous pouvez retirer votre consentement à tout moment en nous contactant via les coordonnées indiquées dans la section "Comment nous contacter au sujet du présent avis?" ci-dessous.</p>
 
 <p>Veuillez noter, cependant, que cela n'affectera pas la légalité du traitement effectué avant son retrait, ni, si la loi applicable le permet, le traitement de vos données personnelles en se fondant sur des motifs de traitement légitimes autres que le consentement.</p>
 
 <p>Si vous avez des questions ou des commentaires sur vos droits en matière de protection des données, vous pouvez nous envoyer un e-mail à sag.hallo@marcelruss.de.</p>
 
-<h2>8. contrôles pour les éléments DO-NOT-TRACK.</h2>
+<h2>8. Contrôles pour les éléments DO-NOT-TRACK.</h2>
 <p>La plupart des navigateurs web et certains systèmes d'exploitation mobiles et applications mobiles contiennent une fonction Do-Not-Track ("DNT") ou un paramètre que vous pouvez activer pour signaler votre préférence en matière de protection de la vie privée de ne pas laisser surveiller et collecter des données sur vos activités de navigation en ligne. À ce stade, aucune norme technologique uniforme n'a été définie pour la détection et la mise en œuvre des signaux DNT. Par conséquent, nous ne répondons pas actuellement aux signaux de navigation DNT ou à d'autres mécanismes qui indiquent automatiquement votre choix de ne pas être suivi en ligne. Si une norme de suivi en ligne est adoptée et que nous devons la suivre à l'avenir, nous vous informerons de cette pratique dans une version révisée de la présente déclaration de confidentialité.</p>
 
-<h2>9. les résidents californiens bénéficient-ils de certains droits en matière de protection des données ? </h2>
+<h2>9. Les résidents californiens bénéficient-ils de certains droits en matière de protection des données? </h2>
 <p><b>En bref :</b> Oui, si vous êtes résident de Californie, vous bénéficiez de certains droits en matière d'accès à vos données personnelles.</p>
 <p>L'article 1798.83 du Code civil de Californie, également connu sous le nom de "Shine The Light Act", permet à nos utilisateurs résidant en Californie de demander et de recevoir de notre part, une fois par an et gratuitement, des informations sur les catégories de données personnelles (le cas échéant) que nous avons partagées avec des tiers à des fins de marketing direct, ainsi que les noms et adresses de tous les tiers avec lesquels nous avons partagé des données personnelles au cours de l'année civile immédiatement précédente. Si vous résidez en Californie et que vous souhaitez faire une telle demande, veuillez nous envoyer votre demande par écrit en utilisant les coordonnées indiquées ci-dessous.</p>
 <p>Si vous avez moins de 18 ans, que vous résidez en Californie et que vous avez un compte enregistré auprès des Services, vous avez le droit de demander la suppression des informations non sollicitées que vous publiez publiquement sur les Services. Pour demander la suppression de telles données, veuillez nous contacter en utilisant les informations de contact ci-dessous, en indiquant l'adresse électronique associée à votre compte et un relevé de compte indiquant que vous résidez en Californie. Nous veillerons à ce que les données ne soient pas affichées publiquement sur les Services, mais veuillez noter qu'il est possible que les données ne soient pas entièrement ou totalement supprimées de tous nos systèmes (par exemple, les sauvegardes, etc.).</p>
 
-<h2>10. procédons-nous à des mises à jour de cet avis ? .</h2>
+<h2>10. Procédons-nous à des mises à jour de cet avis?</h2>
 <p><b>En bref :</b> Oui, nous mettrons à jour cet avis si nécessaire pour nous conformer aux lois applicables.</p>
 <p>Nous pouvons mettre à jour la présente déclaration de confidentialité de temps à autre. La version mise à jour sera indiquée par une date "Révisée" mise à jour et la version mise à jour sera effective dès qu'elle sera accessible. Si nous apportons des modifications substantielles à la présente déclaration de confidentialité, nous pouvons vous en informer soit en publiant de manière visible un avis de telles modifications, soit en vous en informant directement. Nous vous encourageons à consulter régulièrement la présente déclaration de confidentialité afin d'être informé de la manière dont nous protégeons vos données.</p>
 
 
-<h2>11. comment nous contacter au sujet de cet avis?</h2>
+<h2>Comment nous contacter au sujet de cet avis?</h2>
 <p>Si vous avez des questions ou des commentaires sur cette note, vous pouvez nous envoyer un e-mail à sag.hallo@marcelruss.de ou par courrier à :</p>
 <p>Marcel Russ<br />
 Lindachstr. 14<br />
@@ -160,5 +160,5 @@ Lindachstr. 14<br />
 Allemagne</p>
 
 
-<h2>12. comment pouvez-vous vérifier, mettre à jour ou supprimer les informations que nous collectons auprès de vous ? .</h2>
+<h2>12. Comment pouvez-vous vérifier, mettre à jour ou supprimer les informations que nous collectons auprès de vous?</h2>
 <p>Sur la base des lois en vigueur dans votre pays, vous pouvez avoir le droit de demander l'accès aux données personnelles que nous collectons à votre sujet, de modifier ou de supprimer ces informations. Pour vérifier, mettre à jour ou supprimer vos données personnelles, veuillez visiter : <a href="https://marcelruss.de/#contact">https://marcelruss.de/#contact.</a></p>
