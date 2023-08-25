@@ -152,7 +152,7 @@ Si vous êtes situé dans l'EEE ou au Royaume-Uni et que vous pensez que nous tr
 <p>Nous pouvons mettre à jour la présente déclaration de confidentialité de temps à autre. La version mise à jour sera indiquée par une date "Révisée" mise à jour et la version mise à jour sera effective dès qu'elle sera accessible. Si nous apportons des modifications substantielles à la présente déclaration de confidentialité, nous pouvons vous en informer soit en publiant de manière visible un avis de telles modifications, soit en vous en informant directement. Nous vous encourageons à consulter régulièrement la présente déclaration de confidentialité afin d'être informé de la manière dont nous protégeons vos données.</p>
 
 
-<h2>Comment nous contacter au sujet de cet avis?</h2>
+<h2>11. Comment nous contacter au sujet de cet avis?</h2>
 <p>Si vous avez des questions ou des commentaires sur cette note, vous pouvez nous envoyer un e-mail à sag.hallo@marcelruss.de ou par courrier à :</p>
 <p>Marcel Russ<br />
 Lindachstr. 14<br />
