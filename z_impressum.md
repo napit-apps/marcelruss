@@ -26,7 +26,7 @@ Lindachstraße 14 <br />
 
 <h2>Kontakt</h2>
 <p>
-Telefon: +49 7021 9560657 <br />
+Telefon: +49 152 22169 4139 <br />
 E-Mail: sag.hallo@marcelruss.de </p>
 
 <h2>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV</h2>
