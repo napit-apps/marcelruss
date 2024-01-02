@@ -9,9 +9,11 @@ show_tile: false
 
 
 <h2>{{ page.description }}</h2>
-<p>Spezialisiert auf die Entwicklung von <b>mobilen Apps</b> und <b>agilen Methoden</b>, habe ich im Frühjahr 2022 einen neuen Weg als Manager in der <i>Enterprise Modernization</i> bei <a href="https://exxeta.com" target="_blank">Exxeta</a> eingeschlagen. Dabei fokusiere ich mich (gemeinsam mit meinem Team) auf das noch relativ junge Thema <a href="https://greensoftware.foundation/articles/what-is-green-software" target="_blank"><b>Nachhaltige Softwareentwicklung</b></a> und unseren Beitrag als Entwickler für eine grüne IT.</p>
+<p>Spezialisiert auf die Entwicklung von <b>mobilen Apps</b> und <b>agilen Methoden</b>, habe ich 2024 einen neuen Weg als Geschäftsführer der <a href="https://mehrwert.tech" target="_blank">mehr.wert Software und IT Beratung GmbH</a> eingeschlagen. Dabei fokusiere ich mich (gemeinsam mit meinem Team) auf das noch relativ junge Thema <a href="https://greensoftware.foundation/articles/what-is-green-software" target="_blank"><b>Nachhaltige Softwareentwicklung</b></a> und unseren Beitrag als Entwickler für eine grüne IT.</p>
 
-<p>Zuvor war ich dreieinhalb Jahre in der Rolle <i>Team Leader Web & Mobile Application</i> bei <a href="https://hugoboss.com" target="_blank">HUGO BOSS</a> tätig. Neben der fachlichen und disziplinarischen Führung des Entwickler-Teams, verantwortete ich dort die Themen rund um UI/UX und war als Berater für agile Vorgehensmodelle (z.B. Scrum) im Unternehmen tätig.</p>
+<p>Zuvor war ich rund zwei Jahre in der Rolle <i>Manager</i> bei <a href="https://exxeta.com" target="_blank">Exxeta</a> tätig. Neben der fachlichen und disziplinarischen Führung des Entwickler-Teams, betreute ich als (Enterprise) Agile Coach bei einem führenden deutschen Energieunternehmen ~20 Teams bei ihrer agilen Transformation.</p>
+
+<p>In der Rolle <i>Team Leader Web & Mobile Application</i> war ich dreieinhalb Jahre bei <a href="https://hugoboss.com" target="_blank">HUGO BOSS</a> tätig. Neben der fachlichen und disziplinarischen Führung des Entwickler-Teams, verantwortete ich dort die Themen rund um UI/UX und war als Berater für agile Vorgehensmodelle (z.B. Scrum) im Unternehmen tätig.</p>
 
 <p>Vor meinem Wechsel in die Fashion-Welt, war ich knapp sechs Jahre als IT Consultant in verschiednen Rollen für die Automotive-Branche im Raum Stuttgart tätig. Zu meinen Aufgaben gehörten die Beratung und Entwicklung, die (technische) Leitung der klassischen Projekte, sowie die Rollen Scrum Master und Product Owner in den agilen Produkten.</p>
 
