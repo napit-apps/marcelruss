@@ -7,7 +7,6 @@ nav-menu: true
 show_tile: true
 ---
 
-<script src="https://static.elfsight.com/platform/platform.js" async></script>
 <!-- Main -->
 <div id="main" class="alt">
 
@@ -212,6 +211,7 @@ show_tile: true
     </div>
 
     <!-- Reviews -->
+	<script src="https://static.elfsight.com/platform/platform.js" async></script>
 	<div class="elfsight-app-19fc1e22-7f6c-4054-897c-ab62f446a91f" data-elfsight-app-lazy></div>
   </div>
 </section>
