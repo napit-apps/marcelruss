@@ -87,7 +87,7 @@ show_tile: true
 	<div class="row">
 		<div class="4u 12u$(small)">
         <a href="https://fundraisingleadership.org/integrated-leader-manager-coach-model/" class="image" target="_blank">
-        <img src="{% link assets/images/managing-leading-coaching.jp2 %}" alt="" data-position="25% 25%" /></a>
+        <img src="{% link assets/images/managing-leading-coaching.png %}" alt="" data-position="25% 25%" /></a>
 		</div>
 		<div class="8u 12u$(small)">
 		<p>Führung bedeutet für mich, mein Team dazu zu bewegen, ein gemeinsames Ziel zu erreichen.
