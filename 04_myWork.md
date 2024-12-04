@@ -314,7 +314,7 @@ show_tile: true
     <!-- Call-to-Action -->
 	<div class="cta">
     <a href="https://apps.apple.com/de/app/mywork/id487617582?l=de#?platform=iphone" target="_blank" class="button primary">
-      Jetzt im App Store herunterladen
+      Jetzt herunterladen
     </a>
 	</div>
   </div>
