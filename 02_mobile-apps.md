@@ -89,7 +89,7 @@ show_tile: true
 				</header>
 				<p>Ein Haushaltsbuch, reduziert auf das Nötigste und doch mit allem was du brauchst! myMoney bietet dir schnelles Erfassen gepaart mit starken Auswertungen.</p>
 				<ul class="actions">
-					<li><a href="/05_mymoney.html" class="button small">Mehr</a></li>
+					<!-- <li><a href="/05_mymoney.html" class="button small">Mehr</a></li> -->
 					<li><a class="badge-link" href="https://apps.apple.com/de/app/mymoney-housekeeping-book/id1341614338#?platform=iphone" target="_blank"><img src="assets/images/app-store-badge.svg" alt=""></a></li>
 				</ul>
 			</div>

@@ -29,5 +29,54 @@ h4 {
 	display: flex; /* Ermöglicht flexible Positionierung */
 	align-items: center; /* Vertikal zentriert */
 	margin: 0; /* Standardabstand entfernen */
-	text-decoration: underline;
 }
+
+.faq-list blockquote {
+	font-style: normal;
+	font-size: medium;
+}
+
+
+/* Card Design */
+.card {
+	background: #F7C265; /* Leichter Kontrast zum Hintergrund */
+	padding: 1.5rem;
+	border-radius: 8px;
+	text-align: center;
+	margin-bottom: 1.5rem;
+	box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+	color: black;
+  }
+
+  .card .icon img {
+	height: 40px;
+	width: auto;
+	margin-bottom: 1rem;
+  }
+  
+  .card h4 {
+	margin: 0.5rem 0;
+	text-decoration: none;
+	color: black;
+  }
+  
+  .card p {
+	font-size: smaller;
+	line-height: 1.5;
+  }
+  
+  /* Call to Action */
+  .cta {
+	text-align: center;
+	margin-top: 2rem;
+  }
+  
+  .cta p {
+	font-size: 1.25rem;
+	margin-bottom: 1rem;
+  }
+  
+  .cta .button {
+	background: #ff6f61;
+	color: #fff;
+  }
