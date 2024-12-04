@@ -55,7 +55,7 @@ show_tile: true
 	<br />
 	Da ich meinen iPod quasi überall dabei hatte, war der Anwendungsfall schnell gefunden. Ich wollte das Erfassen der Arbeitszeiten in meinen Nebenjobs verbessern. Es sollte vor allem schneller, intuitiver und genauer werden als mein bisheriges Excel-Sheet.
 	<br />
-	Die App, die daraus entstand, ist nun seit bald 10 Jahren im AppStore und gehört mit fast 250.000 Downloads und mehr als 3000 zufriedenen Bewertungen dauerhaft zu den Top 200 in Apples AppStore. 
+	Die App, die daraus entstand, ist nun seit über 10 Jahren im AppStore und gehört mit fast 250.000 Downloads und mehr als 4700 zufriedenen Bewertungen dauerhaft zu den Top 200 in Apples AppStore. 
 	<br />Ihre Entwicklung entfachte meine Leidenschaft für Apps und prägt meine berufliche Laufbahn bis heute.
 	</p>
 </div>

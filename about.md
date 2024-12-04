@@ -31,18 +31,21 @@ show_tile: false
 	<div class="4u 12u$(medium)">
 		<h3>App Entwicklung</h3>
 		<p>Ob nativ, hybrid oder webbasiert. Apps sind aus unserem Alltag nicht mehr wegzudenken. Ich arbeite seit über 10 Jahren in diesem Feld. Mit fast 250.000 Downloads der eigenen Apps und zahlreichen zufriedenen Projekt-Partnern.</p>
-        <p><a href="mobile-apps.html" class="button small special">Mehr</a></p>
+        <ul class="actions">
+	    <li><a href="02_mobile-apps.html" class="button small special">Mehr</a></li>
+	    <li><a href="04_mywork.html" class="button small">myWork</a></li>
+        </ul>
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>UI/UX Design</h3>
 		<p>Ein gutes Design ist mehr als reine Ästhetik. Es bestimmt <b>was</b> ein Produkt ist und <b>wie</b> der Anwender mit diesem interagieren kann. Es steigert die Produktivität, bindet den Nutzer und trägt so zum langfristigen Erfolg bei.</p>
-        <!--<p><a href="mobile-apps.html" class="button small">Mehr</a></p> -->
+        <!--<p><a href="02_mobile-apps.html" class="button small">Mehr</a></p> -->
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>Agilität (Scrum & SAFe)</h3>
 		<p><b>Ausprobieren</b>, <b>lernen</b>, <b>weiterentwickeln</b>. Das sind die Aufgaben, um in kleinen Schritten kontinuierlich und kundenzentriert vorwärtszukommen. Immer mit dem Ziel einen dauerhaften Mehrwert zu generieren.</p>
         <ul class="actions">
-	    <li><a href="philosophy.html" class="button small special">Mehr</a></li>
+	    <li><a href="03_philosophy.html" class="button small special">Mehr</a></li>
 	    <li><a href="https://www.scrum.org/user/354382" class="button small" target="_blank">Scrum</a></li>
         <li><a href="https://www.credly.com/badges/5e28e351-fbc9-4ac2-838f-5ef1bbc90989/public_url" class="button small" target="_blank">SAFe</a></li>
         </ul>
@@ -201,7 +204,7 @@ show_tile: false
     <div class="4u 12u$(medium)">
         <h3>Familie</h3>
         <div class="33u"><span class="image fit"><img src="{% link assets/images/desktop.jpg %}" alt="" /></span></div>
-        <!--<p><a href="mobile-apps.html" class="button small">Mehr</a></p>  
+        <!--<p><a href="02_mobile-apps.html" class="button small">Mehr</a></p>  
     </div>
     <div class="4u$ 12u$(medium)">
         <h3>Reisen</h3>
