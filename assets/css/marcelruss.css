@@ -1,0 +1,33 @@
+
+
+.sub-head {
+	text-transform: uppercase;
+	font-size: 1.2em;
+	font-weight: 600;
+	letter-spacing: 2px;
+	margin-bottom: 10px;
+	;
+} 
+
+.img-col {
+	padding-right: 25px;
+}
+
+.icon {
+	display: inline-flex; /* Hält das Icon auf einer Linie mit dem Text */
+	align-items: center; /* Zentriert das Icon vertikal */
+	margin-right: 0.5rem; /* Abstand zwischen Icon und Text */
+  }
+  
+.icon img {
+	display: block; /* Entfernt zusätzlichen Leerraum um das Bild */
+	height: 24px; /* Einheitliche Höhe */
+	width: auto; /* Breite proportional zur Höhe */
+}
+
+h4 {
+	display: flex; /* Ermöglicht flexible Positionierung */
+	align-items: center; /* Vertikal zentriert */
+	margin: 0; /* Standardabstand entfernen */
+	text-decoration: underline;
+}

@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Leistungen
-description: 'App Entwicklung, UI/UX Design, Agile Beratung und Coaching, …'
+title: myMoney
+description: 'Vollumfängliche Arbeitszeiterfassung - vielseitig, einfach und sicher!'
 image: assets/images/desktop.jpg
 nav-menu: true
+show_tile: true
 ---
 
 
