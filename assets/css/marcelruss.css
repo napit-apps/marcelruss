@@ -39,13 +39,17 @@ h4 {
 
 /* Card Design */
 .card {
-	background: #F7C265; /* Leichter Kontrast zum Hintergrund */
-	padding: 1.5rem;
-	border-radius: 8px;
-	text-align: center;
-	margin-bottom: 1.5rem;
-	box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-	color: black;
+	background: #F7C265; /* Heller Hintergrund */
+	padding: 1.5rem; /* Innenabstand */
+	border-radius: 8px; /* Abgerundete Ecken */
+	text-align: center; /* Zentriert den gesamten Inhalt */
+	margin-bottom: 1.5rem; /* Abstand zu anderen Karten */
+	box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Leichter Schatten */
+	color: black; /* Schwarzer Text */
+	display: flex; /* Flexbox für Zentrierung */
+	flex-direction: column; /* Inhalt vertikal anordnen */
+	align-items: center; /* Zentriert alles horizontal */
+	justify-content: center; /* Zentriert alles vertikal */
   }
 
   .card .icon img {
@@ -58,11 +62,11 @@ h4 {
 	margin: 0.5rem 0;
 	text-decoration: none;
 	color: black;
+	text-align: center;
   }
   
   .card p {
-	font-size: medium;
-	line-height: 1.5;
+	text-align: center;
   }
   
   /* Call to Action */
