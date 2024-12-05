@@ -33,7 +33,7 @@ show_tile: false
 		<p>Ob nativ, hybrid oder webbasiert. Apps sind aus unserem Alltag nicht mehr wegzudenken. Ich arbeite seit über 10 Jahren in diesem Feld. Mit fast 250.000 Downloads der eigenen Apps und zahlreichen zufriedenen Projekt-Partnern.</p>
         <ul class="actions">
 	    <li><a href="02_mobile-apps.html" class="button small special">Mehr</a></li>
-	    <li><a href="04_mywork.html" class="button small">myWork</a></li>
+	    <li><a href="04_myWork.html" class="button small">myWork</a></li>
         </ul>
 	</div>
 	<div class="4u 12u$(medium)">

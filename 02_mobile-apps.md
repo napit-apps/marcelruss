@@ -72,7 +72,7 @@ show_tile: true
 				</header>
 				<p>Vollumfängliche Arbeitszeiterfassung - vielseitig, einfach und sicher! Auf Wunsch sogar automatisch anhand deines Arbeitsplatzes und über alle deine Geräte synchron.</p>
 				<ul class="actions">
-					<li><a href="/04_mywork.html" class="button small">Mehr</a></li>
+					<li><a href="/04_myWork.html" class="button small">Mehr</a></li>
 					<li><a class="badge-link" href="https://apps.apple.com/de/app/mywork/id487617582?l=de#?platform=iphone" target="_blank"><img src="assets/images/app-store-badge.svg" alt=""></a></li>
 				</ul>
 			</div>
