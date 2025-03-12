@@ -182,6 +182,7 @@ show_tile: false
         <h3>Zertifikate</h3>
         <div class="inner">
         <ul class="icons">
+            <li><a href="https://www.scrum.org/user/354382" class="icon" target="_blank"><img class="skillimage" src="{% link assets/images/psd2.svg %}" alt="" /> </a></li>
             <li><a href="https://www.scrum.org/user/354382" class="icon" target="_blank"><img class="skillimage" src="{% link assets/images/psd1.svg %}" alt="" /> </a></li>
             <li><a href="https://www.scrum.org/user/354382" class="icon" target="_blank"><img class="skillimage" src="{% link assets/images/psm1.svg %}" alt="" /> </a></li>
             <li><a href="https://www.scrum.org/user/354382" class="icon" target="_blank"><img class="skillimage" src="{% link assets/images/pspo1.svg %}" alt="" /> </a></li>
