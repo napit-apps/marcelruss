@@ -130,7 +130,7 @@ show_tile: true
             <img src="assets/icons/icloud-icon.png" alt="icloud Icon">
           </span>
           <h4>Synchronisierung über alle Geräte</h4>
-          <p>Dank iCloud kannst du deine Daten sicher synchronisieren und hast sie immer und überall verfügbar – auf deinem iPhone, iPad und deinem Mac.</p>
+          <p>Dank iCloud kannst du deine Daten sicher synchronisieren und hast sie immer und überall verfügbar – auf deinem iPhone, iPad und deinem Mac (mit m-Prozessor).</p>
         </div>
       </div>
 
